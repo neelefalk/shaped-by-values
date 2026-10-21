@@ -1,0 +1,216 @@
+{
+  "instrument": "READER-INFERRED",
+  "language": "Spanish (Mexico)",
+  "administered_to": "readers, per text, to infer the writer's values (shortened item set)",
+  "n_items": 26,
+  "items": [
+    {
+      "id": "CA1",
+      "dimension": "Care",
+      "text": "Debemos preocuparnos y ayudar a quienes están sufriendo.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "CA2",
+      "dimension": "Care",
+      "text": "Debemos mostrar empatía hacia las personas que están en dolor.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "EQ1",
+      "dimension": "Equality",
+      "text": "El dinero debería distribuirse equitativamente, ya que esto llevaría a una sociedad mejor y más justa.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "EQ2",
+      "dimension": "Equality",
+      "text": "Los recursos deberían compartirse equitativamente entre todos, sin importar su contribución.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "PRO1",
+      "dimension": "Proportionality",
+      "text": "El trabajo duro debería conducir a mayores recompensas financieras.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "PRO2",
+      "dimension": "Proportionality",
+      "text": "Una persona debe ser reconocida por su desempeño y logros, pero castigada por la deshonestidad.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "LOY1",
+      "dimension": "Loyalty",
+      "text": "Todos deberían amar a su propia comunidad.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "LOY2",
+      "dimension": "Loyalty",
+      "text": "Es importante ser leal a tu país.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "AUT1",
+      "dimension": "Authority",
+      "text": "Necesitamos preservar los valores tradicionales.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "AUT2",
+      "dimension": "Authority",
+      "text": "Tener un líder fuerte es bueno para la sociedad.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "AUT3",
+      "dimension": "Authority",
+      "text": "La obediencia a los padres es una virtud importante.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "PUR1",
+      "dimension": "Purity",
+      "text": "El cuerpo humano debe ser tratado como un templo, albergando algo sagrado dentro.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "PUR2",
+      "dimension": "Purity",
+      "text": "Me molesta cuando las personas dicen groserías como si no pasara nada.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "PUR3",
+      "dimension": "Purity",
+      "text": "Si me entero de que un conocido tiene un fetiche sexual inusual pero inofensivo, me\nsentiría incómodo.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "PUR4",
+      "dimension": "Purity",
+      "text": "Las personas deberían intentar usar medicamentos naturales en vez de los que hacen\nlos humanos que son químicamente idénticos.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "COLL1",
+      "dimension": "Individualism-Collectivism",
+      "text": "Las necesidades y el éxito del grupo deben estar por encima de los deseos y logros individuales.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "COLL2",
+      "dimension": "Individualism-Collectivism",
+      "text": "Debemos considerar la lealtad al grupo y el bienestar colectivo sobre las metas personales.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "PD1",
+      "dimension": "Power Distance",
+      "text": "La toma de decisiones debería ser principalmente responsabilidad de aquellos en posiciones superiores, sin mucha intervención de aquellos en posiciones inferiores.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "PD2",
+      "dimension": "Power Distance",
+      "text": "Las personas en posiciones inferiores no deberían cuestionar las decisiones de aquellos en posiciones superiores ni asumir grandes tareas por sí mismos.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "UA1",
+      "dimension": "Uncertainty Avoidance",
+      "text": "Todos deberían saber exactamente qué hacer teniendo cada paso claramente explicado.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "UA2",
+      "dimension": "Uncertainty Avoidance",
+      "text": "Las reglas y regulaciones son importantes porque establecen claramente lo que se espera de las personas.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "UA3",
+      "dimension": "Uncertainty Avoidance",
+      "text": "Los procedimientos de trabajo estandarizados son útiles.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "LTO1",
+      "dimension": "Long-Term Orientation",
+      "text": "Debemos manejar el dinero sabiamente y pensar en el futuro.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "LTO2",
+      "dimension": "Long-Term Orientation",
+      "text": "Debes mantener tus metas, incluso cuando sea difícil, y trabajar duro para lo que viene después.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "GE1",
+      "dimension": "Gender Egalitarianism",
+      "text": "Los hombres y las mujeres tienen roles y fortalezas diferentes, especialmente en el ámbito profesional y en la resolución de problemas.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    },
+    {
+      "id": "QUAL",
+      "dimension": "Individualism-Collectivism",
+      "text": "Los deseos y logros individuales deben prevalecer sobre las necesidades y el éxito del grupo.",
+      "scale_size": 5,
+      "min_label": "totalmente en desacuerdo",
+      "max_label": "totalmente de acuerdo"
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "instrument": "CVSCALE",
+  "language": "Spanish (Mexico)",
+  "administered_to": "writers and readers, about themselves, at the end of the study",
+  "n_items": 26,
+  "items": [
+    {
+      "id": "1",
+      "text": "Individuos deben de sacrificar el interés personal por el del grupo (ya sea en el trabajo o en la escuela).",
+      "dimension": "Individualism-Collectivism",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "2",
+      "text": "Individuos deben de mantenerse en el grupo en situaciones difíciles.",
+      "dimension": "Individualism-Collectivism",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "3",
+      "text": "El bien del grupo es más importante que recompensas personales.",
+      "dimension": "Individualism-Collectivism",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "4",
+      "text": "El éxito del grupo es más importante que el éxito personal.",
+      "dimension": "Individualism-Collectivism",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "5",
+      "text": "Individuos deben de seguir sus metas después de velar por interés del grupo.",
+      "dimension": "Individualism-Collectivism",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "6",
+      "text": "La lealtad hacia el grupo debe de ser promovida aunque afecte metas personales.",
+      "dimension": "Individualism-Collectivism",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "7",
+      "text": "Una carrera profesional es más importante para hombres que para mujeres.",
+      "dimension": "Gender Egalitarianism",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "8",
+      "text": "Los varones normalmente resuelven problemas con análsis lógico; las mujeres normalmente solucionan los problemas con intuición.",
+      "dimension": "Gender Egalitarianism",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "9",
+      "text": "Resolver problemas difíciles normalmente requiere un enfoque fuerte y activo, que es típico de varones.",
+      "dimension": "Gender Egalitarianism",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "10",
+      "text": "Existen ciertos empleos que los hombres siempre lo hacen mejor que las mujeres.",
+      "dimension": "Gender Egalitarianism",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "11",
+      "text": "Personas en puestos de alto nivel deben de tomar la mayoría de las decisiones sin tomar en cuenta niveles inferiores.",
+      "dimension": "Power Distance",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "12",
+      "text": "Personas en altos puestos no deben preguntar demasiado a sus subordinados.",
+      "dimension": "Power Distance",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "13",
+      "text": "Pesonas en altos puestos deben evitar la interacción social con sus subordinados.",
+      "dimension": "Power Distance",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "14",
+      "text": "Personas en niveles inferiores no deben contradecir las decisiones de personas en mandos mayores.",
+      "dimension": "Power Distance",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "15",
+      "text": "Personas en puestos de alto nivel no deben delegar tareas importantes a personas en niveles inferiores.",
+      "dimension": "Power Distance",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "16",
+      "text": "Es importante tener instrucciones escritas a detalle para que yo siempre sepa que es lo que se espera de mí.",
+      "dimension": "Uncertainty Avoidance",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "17",
+      "text": "Es importante seguir las instrucciones y los procedimientos.",
+      "dimension": "Uncertainty Avoidance",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "18",
+      "text": "Las reglas y las regulaciones son importantes porque me informan sobre lo que se espera de mí.",
+      "dimension": "Uncertainty Avoidance",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "19",
+      "text": "Los procedimientos de trabajo estandarizados son de ayuda.",
+      "dimension": "Uncertainty Avoidance",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "20",
+      "text": "Es importante contar con instrucciones para realizar trabajos.",
+      "dimension": "Uncertainty Avoidance",
+      "choices": [
+        "1 : En Desacuerdo Totalment",
+        "2 : En Desacuerdo",
+        "3 : Ni de Acuerdo ni en Desacuerdo",
+        "4 : De Acuerdo",
+        "5 : Totalmente de Acuerdo"
+      ]
+    },
+    {
+      "id": "21",
+      "text": "Manejo adecuado del dinero.",
+      "dimension": "Long-Term Orientation",
+      "choices": [
+        "1 : Sin importancia",
+        "2 : Poca importancia",
+        "3 : Neutral",
+        "4 : Importante",
+        "5 : Muy importante"
+      ]
+    },
+    {
+      "id": "22",
+      "text": "Ser persistente a pesar de la adversidad.",
+      "dimension": "Long-Term Orientation",
+      "choices": [
+        "1 : Sin importancia",
+        "2 : Poca importancia",
+        "3 : Neutral",
+        "4 : Importante",
+        "5 : Muy importante"
+      ]
+    },
+    {
+      "id": "23",
+      "text": "Estabilidad y constancia personal.",
+      "dimension": "Long-Term Orientation",
+      "choices": [
+        "1 : Sin importancia",
+        "2 : Poca importancia",
+        "3 : Neutral",
+        "4 : Importante",
+        "5 : Muy importante"
+      ]
+    },
+    {
+      "id": "24",
+      "text": "Planificacion del futuro / a largo plazo.",
+      "dimension": "Long-Term Orientation",
+      "choices": [
+        "1 : Sin importancia",
+        "2 : Poca importancia",
+        "3 : Neutral",
+        "4 : Importante",
+        "5 : Muy importante"
+      ]
+    },
+    {
+      "id": "25",
+      "text": "Concentrarse en el futuro, dejando la diversion del hoy.",
+      "dimension": "Long-Term Orientation",
+      "choices": [
+        "1 : Sin importancia",
+        "2 : Poca importancia",
+        "3 : Neutral",
+        "4 : Importante",
+        "5 : Muy importante"
+      ]
+    },
+    {
+      "id": "26",
+      "text": "Trabajar duro en el presente para tener un buen futuro.",
+      "dimension": "Long-Term Orientation",
+      "choices": [
+        "1 : Sin importancia",
+        "2 : Poca importancia",
+        "3 : Neutral",
+        "4 : Importante",
+        "5 : Muy importante"
+      ]
+    }
+  ]
+}

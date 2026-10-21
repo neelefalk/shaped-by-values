@@ -1,0 +1,216 @@
+{
+  "instrument": "READER-INFERRED",
+  "language": "Arabic",
+  "administered_to": "readers, per text, to infer the writer's values (shortened item set)",
+  "n_items": 26,
+  "items": [
+    {
+      "id": "CA1",
+      "dimension": "Care",
+      "text": "يجب علينا أن نهتم ونساعد الآخرين الذين يعانون.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "CA2",
+      "dimension": "Care",
+      "text": "يجب أن نظهر التعاطف تجاه الأشخاص الذين يتألمون.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "EQ1",
+      "dimension": "Equality",
+      "text": "يجب توزيع المال بشكل متساوٍ لأن ذلك سيؤدي إلى مجتمع أفضل وأكثر عدلاً.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "EQ2",
+      "dimension": "Equality",
+      "text": "يجب مشاركة الموارد بالتساوي بين الجميع، بغض النظر عن مساهماتهم.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "PRO1",
+      "dimension": "Proportionality",
+      "text": "يجب أن يؤدي العمل الجاد إلى مكافآت مالية أكبر.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "PRO2",
+      "dimension": "Proportionality",
+      "text": "يجب أن يُعترف للشخص بالأداء والإنجاز، ولكن يُعاقب على عدم الأمانة.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "LOY1",
+      "dimension": "Loyalty",
+      "text": "يجب أن يحب كل شخص مجتمعه.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "LOY2",
+      "dimension": "Loyalty",
+      "text": "من المهم أن تكون وفياُ لوطنك.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "AUT1",
+      "dimension": "Authority",
+      "text": "نحتاج إلى الحفاظ على القيم التقليدية.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "AUT2",
+      "dimension": "Authority",
+      "text": "وجود قائد قوي أمر جيد للمجتمع.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "AUT3",
+      "dimension": "Authority",
+      "text": "طاعة الوالدين فضيلة مهمة.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "PUR1",
+      "dimension": "Purity",
+      "text": "يجب أن يُعامل الجسد البشري كهيكل مقدس يَسكنه شيء مقدس.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "PUR2",
+      "dimension": "Purity",
+      "text": "يُزعجني عندما يستخدم الناس الألفاظ البذيئة وكأنها أمر عادي.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "PUR3",
+      "dimension": "Purity",
+      "text": "إذا اكتشفت أن أحد معارفي لديه تفضيل أو انجذاب جنسي غير مألوف لكنه غير ضار، فسأشعر بعدم الارتياح تجاه ذاك الشخص.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "PUR4",
+      "dimension": "Purity",
+      "text": "ينبغي على الناس محاولة استخدام الأدوية الطبيعية بدلاً من تلك المصنوعة من قبل البشر، حتى لو كانت كيميائيًا متطابقة.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "COLL1",
+      "dimension": "Individualism-Collectivism",
+      "text": "يجب أن تأتي احتياجات ونجاحات المجموعة قبل الرغبات والإنجازات الفردية.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "COLL2",
+      "dimension": "Individualism-Collectivism",
+      "text": "يجب أن نضع الولاء للمجموعة والرفاهية الجماعية فوق الأهداف الشخصية.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "PD1",
+      "dimension": "Power Distance",
+      "text": "يجب أن تكون عملية صنع القرار مسؤولية منهم في المناصب العليا بشكل أساسي، دون مشاركة كبيرة من أصحاب المناصب الأدنى.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "PD2",
+      "dimension": "Power Distance",
+      "text": "يجب ألا يشكك الأشخاص في المناصب الأدنى في قرارات منهم في المناصب العليا أو يتولوا مهام كبيرة بأنفسهم.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "UA1",
+      "dimension": "Uncertainty Avoidance",
+      "text": "يجب أن يعرف الجميع ما يجب عليهم فعله بالضبط من خلال شرح كل خطوة بوضوح.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "UA2",
+      "dimension": "Uncertainty Avoidance",
+      "text": "القواعد واللوائح مهمة لأنها تحدد بوضوح ماهو متوقع من الناس.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "UA3",
+      "dimension": "Uncertainty Avoidance",
+      "text": "إجراءات العمل الموحدة مفيدة.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "LTO1",
+      "dimension": "Long-Term Orientation",
+      "text": "يجب أن ندير المال بحكمة ونفكر في المستقبل.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "LTO2",
+      "dimension": "Long-Term Orientation",
+      "text": "يجب أن تلتزم بأهدافك، حتى عندما يكون الأمر صعبًا، وأن تعمل بجد من أجل ما هو قادم.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "GE1",
+      "dimension": "Gender Egalitarianism",
+      "text": "للرجال والنساء أدوار ونقاط قوة مختلفة، خاصة في السياقات المهنية وحل المشكلات.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    },
+    {
+      "id": "QUAL",
+      "dimension": "Individualism-Collectivism",
+      "text": "يجب أن تكون الرغبات الفردية والإنجازات الشخصية أهم من احتياجات المجموعة ونجاحها.",
+      "scale_size": 5,
+      "min_label": "المستخدم USER يرفض هذا بشدة",
+      "max_label": "لمستخدم USER يوافق مع هذا بشدة"
+    }
+  ]
+}

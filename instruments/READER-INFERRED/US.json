@@ -1,0 +1,216 @@
+{
+  "instrument": "READER-INFERRED",
+  "language": "English (US)",
+  "administered_to": "readers, per text, to infer the writer's values (shortened item set)",
+  "n_items": 26,
+  "items": [
+    {
+      "id": "CA1",
+      "dimension": "Care",
+      "text": "We should care and help others who are suffering.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "CA2",
+      "dimension": "Care",
+      "text": "We should show empathy towards people in pain.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "EQ1",
+      "dimension": "Equality",
+      "text": "Money should be equally distributed since that would lead to a better and fairer society.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "EQ2",
+      "dimension": "Equality",
+      "text": "Resources should be shared equally among everyone, regardless of their contribution.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "PRO1",
+      "dimension": "Proportionality",
+      "text": "Hard work should lead to greater financial rewards.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "PRO2",
+      "dimension": "Proportionality",
+      "text": "A person should get recognized for performance and achievement but punished for dishonesty.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "LOY1",
+      "dimension": "Loyalty",
+      "text": "Everyone should love their own community.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "LOY2",
+      "dimension": "Loyalty",
+      "text": "It is important to be loyal to your country.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "AUT1",
+      "dimension": "Authority",
+      "text": "We need to preserve traditional values.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "AUT2",
+      "dimension": "Authority",
+      "text": "Having a strong leader is good for society.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "AUT3",
+      "dimension": "Authority",
+      "text": "Obedience to parents is an important virtue.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "PUR1",
+      "dimension": "Purity",
+      "text": "The human body should be treated like a temple, housing something sacred within.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "PUR2",
+      "dimension": "Purity",
+      "text": "It upsets me when people use foul language like it is nothing.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "PUR3",
+      "dimension": "Purity",
+      "text": "If I found out that an acquaintance had an unusual but harmless sexual fetish I would feel uneasy about them.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "PUR4",
+      "dimension": "Purity",
+      "text": "People should try to use natural medicines rather than chemically identical human-made ones.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "COLL1",
+      "dimension": "Individualism-Collectivism",
+      "text": "The needs and success of the group should come before individual desires and achievements.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "COLL2",
+      "dimension": "Individualism-Collectivism",
+      "text": "We should consider group loyalty and collective welfare over personal goals.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "PD1",
+      "dimension": "Power Distance",
+      "text": "Decision-making should mainly be the responsibility of those in higher positions, without much input from those in lower positions.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "PD2",
+      "dimension": "Power Distance",
+      "text": "People in lower positions shouldn't question the choices from people in higher positions or take on big tasks by themselves.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "UA1",
+      "dimension": "Uncertainty Avoidance",
+      "text": "Everyone should know exactly what to do by having every step clearly explained.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "UA2",
+      "dimension": "Uncertainty Avoidance",
+      "text": "Rules and regulations are important because they clearly outline what is expected of people.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "UA3",
+      "dimension": "Uncertainty Avoidance",
+      "text": "Standardized work procedures are helpful.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "LTO1",
+      "dimension": "Long-Term Orientation",
+      "text": "We should manage money wisely and think about the future.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "LTO2",
+      "dimension": "Long-Term Orientation",
+      "text": "You should stick with your goals, even when it's tough, and work hard for what comes next.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "GE1",
+      "dimension": "Gender Egalitarianism",
+      "text": "Men and women have different roles and strengths, especially in professional and problem-solving contexts.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    },
+    {
+      "id": "QUAL",
+      "dimension": "Individualism-Collectivism",
+      "text": "Individual desires and achievements should take precedence over the needs and success of the group.",
+      "scale_size": 5,
+      "min_label": "strongly disagrees",
+      "max_label": "strongly agrees"
+    }
+  ]
+}

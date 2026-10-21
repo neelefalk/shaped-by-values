@@ -1,0 +1,320 @@
+{
+  "instrument": "CVSCALE",
+  "language": "English (US)",
+  "administered_to": "writers and readers, about themselves, at the end of the study",
+  "n_items": 26,
+  "items": [
+    {
+      "id": "1",
+      "text": "Individuals should sacrifice self-interest for the group.",
+      "dimension": "Individualism-Collectivism",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "2",
+      "text": "Individuals should stick with the group even through difficulties.",
+      "dimension": "Individualism-Collectivism",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "3",
+      "text": "Group welfare is more important than individual rewards.",
+      "dimension": "Individualism-Collectivism",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "4",
+      "text": "Group success is more important than individual success.",
+      "dimension": "Individualism-Collectivism",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "5",
+      "text": "Individuals should only pursue their goals after considering the welfare of the group.",
+      "dimension": "Individualism-Collectivism",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "6",
+      "text": "Group loyalty should be encouraged even if individual goals suffer.",
+      "dimension": "Individualism-Collectivism",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "7",
+      "text": "It is more important for men to have a professional career than it is for women.",
+      "dimension": "Gender Egalitarianism",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "8",
+      "text": "Men usually solve problems with logical analysis; women usually solve problems with intuition.",
+      "dimension": "Gender Egalitarianism",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "9",
+      "text": "Solving difficult problems usually requires an active, forcible approach, which is typical of men.",
+      "dimension": "Gender Egalitarianism",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "10",
+      "text": "There are some jobs that a man can always do better than a woman.",
+      "dimension": "Gender Egalitarianism",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "11",
+      "text": "People in higher positions should make most decisions without consulting people in lower positions.",
+      "dimension": "Power Distance",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "12",
+      "text": "People in higher positions should not ask the opinions of people in lower positions too frequently.",
+      "dimension": "Power Distance",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "13",
+      "text": "People in higher positions should avoid social interaction with people in lower positions.",
+      "dimension": "Power Distance",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "14",
+      "text": "People in lower positions should not disagree with decisions by people in higher positions.",
+      "dimension": "Power Distance",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "15",
+      "text": "People in higher positions should not delegate important tasks to people in lower positions.",
+      "dimension": "Power Distance",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "16",
+      "text": "It is important to have instructions spelled out in detail so that I always know what I'm expected to do.",
+      "dimension": "Uncertainty Avoidance",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "17",
+      "text": "It is important to closely follow instructions and procedure.",
+      "dimension": "Uncertainty Avoidance",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "18",
+      "text": "Rules and regulations are important because they inform me of what is expected of me.",
+      "dimension": "Uncertainty Avoidance",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "19",
+      "text": "Standardized work procedures are helpful.",
+      "dimension": "Uncertainty Avoidance",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "20",
+      "text": "Instructions for operations are important.",
+      "dimension": "Uncertainty Avoidance",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "21",
+      "text": "Careful management of money (Thrift).",
+      "dimension": "Long-Term Orientation",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "22",
+      "text": "Going on resolutely in spite of opposition (Persistence).",
+      "dimension": "Long-Term Orientation",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "23",
+      "text": "Personal steadiness and stability.",
+      "dimension": "Long-Term Orientation",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "24",
+      "text": "Long-term planning.",
+      "dimension": "Long-Term Orientation",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "25",
+      "text": "Giving up today’s fun for success in the future.",
+      "dimension": "Long-Term Orientation",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    },
+    {
+      "id": "26",
+      "text": "Working hard for success in the future.",
+      "dimension": "Long-Term Orientation",
+      "choices": [
+        "1 : Strongly Disagree",
+        "2 : Disagree",
+        "3 : Neither Agree nor Disagree",
+        "4 : Agree",
+        "5 : Strongly Agree"
+      ]
+    }
+  ]
+}
