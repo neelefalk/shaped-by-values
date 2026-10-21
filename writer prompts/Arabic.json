@@ -1,0 +1,529 @@
+{
+  "language": "Arabic",
+  "n_prompts": 86,
+  "prompt_types": [
+    "argument",
+    "diaglogue long",
+    "dialogue short",
+    "interview",
+    "share experience"
+  ],
+  "prompts": [
+    {
+      "id": 1,
+      "stimulus_type": "share experience",
+      "text": "شارك تجربة عن وقت تغلبت على موقف صعب. ما هو الموقف وكيف تغلبت عليه؟ ماذا تعلمت من تلك التجربة؟",
+      "english_original": "Share about a time you overcame a challenging situation. What was the situation and how did you overcome it? What did you learn from that experience?"
+    },
+    {
+      "id": 2,
+      "stimulus_type": "share experience",
+      "text": "شارك تجربة عن وقت غيرت فيه رأيك أو تفكيرك حول شيء. ما الذي حدث وجعلك تغير رأيك؟ كيف كانت تلك الخبرة بالنسبة لك؟",
+      "english_original": "Share about a time you changed your mind or thinking about something. What happened that made you change your mind? What was that experience like for you?"
+    },
+    {
+      "id": 3,
+      "stimulus_type": "share experience",
+      "text": "ما هي المجموعة التي تنتمي إليها وتعتبرها مهمة لك ولماذا؟",
+      "english_original": "What is a group that you are part of that is important to you and why?"
+    },
+    {
+      "id": 4,
+      "stimulus_type": "interview",
+      "text": "شارك فيلم تحبه حقًا؟ ماذا تحب فيه؟ لماذا تعتقد أنك تحبه كثيرًا؟",
+      "english_original": "Share about a movie you really like? What do you like about it? Why do you think you like it so much?"
+    },
+    {
+      "id": 5,
+      "stimulus_type": "interview",
+      "text": "هل تؤمن بالسحر؟ إذا كان الأمر كذلك، كيف تعرفه؟",
+      "english_original": "Do you believe in magic? If so, how do you define it?"
+    },
+    {
+      "id": 6,
+      "stimulus_type": "argument",
+      "text": "عبّر عن رأيك حول الجملة التالية: الذكاء الاصطناعي يمثل تهديداً للبشرية",
+      "english_original": "Express your opinion about the following sentence:<br>„Artificial intelligence represents a threat to humankind“"
+    },
+    {
+      "id": 7,
+      "stimulus_type": "argument",
+      "text": ".عبر عن رأيك حول الجملة التالية: لا يحق لنا إيذاء الحيوانات، حتى ولو كانت هناك فوائد لنا في ذلك",
+      "english_original": "Express your opinion about the following sentence:<br> We have no right to make animals suffer, even though there are benefits for us."
+    },
+    {
+      "id": 8,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب ردًا على التعليق التالي: أخبر الناس بأنني سأصلي من أجلهم ولكنني لا أفعل ذلك.",
+      "english_original": "Write a reply message to the following comment: I tell people I will pray for them but I never do."
+    },
+    {
+      "id": 9,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: أريد أن أترك عائلتي عندما أبلغ من العمر 18 عامًا.",
+      "english_original": "Write a reply message to the following comment: I want to, when I turn 18, leave my family."
+    },
+    {
+      "id": 10,
+      "stimulus_type": "diaglogue long",
+      "text": "أكتب رسالة رد على التعليق التالي:أواجه صعوبة كبيرة فيما يتعلق بتناول الطعام الصحي. أحتاج إلى خفض الكوليسترول ولكنه مجرد أمر بائس بالنسبة لي. قضيت ٣١ عامًا أتناول الطعام السيئ، الانتقال من تناول السكر بكثرة والدهون إلى الطعام الصحي يشعرني وكأنني… أريد أن أصطدم وجهي بالحائط.",
+      "english_original": "Write a reply message to the following comment:<br>I am having such a hard time with the healthy eating part. I need to lower my cholesterol but it's just miserable for me.<br>I spent 31 years eating crap food, to go from high sugar high fat to healthy is like... it makes me want to bash my face into a wall."
+    },
+    {
+      "id": 11,
+      "stimulus_type": "share experience",
+      "text": ".شارك تجربة شخصية حول خلاف بينك وبين عائلتك أو أصدقائك",
+      "english_original": "Share a personal experience about a conflict situation between you and your family or friends."
+    },
+    {
+      "id": 12,
+      "stimulus_type": "share experience",
+      "text": "شارك قضية تشعر بشدة حيالها. لماذا تظن أنك تهتم كثيرًا بها؟ هل تحداك أحد بشأن ذلك؟ كيف سار الأمر؟",
+      "english_original": "Share about an issue you feel strongly about. Why do you think you care so much about it? Has anyone ever challenged you on it? How did it go?"
+    },
+    {
+      "id": 13,
+      "stimulus_type": "share experience",
+      "text": ".شارك نصر صغير حققته مؤخرًا",
+      "english_original": "Share about a small victory you recently had."
+    },
+    {
+      "id": 14,
+      "stimulus_type": "interview",
+      "text": "ما الذي تعتبره يوم رائع؟",
+      "english_original": "What is your idea of an amazing day?"
+    },
+    {
+      "id": 15,
+      "stimulus_type": "interview",
+      "text": "أنت محاصر على جزيرة مهجورة بشيئين معك. ما هما؟",
+      "english_original": "You’re stranded on a deserted island with two things with you. What are they?"
+    },
+    {
+      "id": 16,
+      "stimulus_type": "argument",
+      "text": "عبر عن رأيك حول الجملة التالية: “لا يوجد نظام غذائي واحد هو الأفضل للجميع، يجب على الناس اتباع النظام الغذائي الذي يناسبهم بشكل أفضل",
+      "english_original": "Express your opinion about the following sentence:<br>„No single dietary approach is best for everyone, so people should follow the diet that is best for them.“"
+    },
+    {
+      "id": 17,
+      "stimulus_type": "argument",
+      "text": "عبر عن رأيك حول الجملة التالية: “تشريعات حرية التعبير تحمي لأفراد من الأذى“",
+      "english_original": "Express your opinion about the following sentence:<br>„Regulations on free speech protect individuals from harm.“"
+    },
+    {
+      "id": 18,
+      "stimulus_type": "dialogue short",
+      "text": "أكتب ردًا على التعليق التالي: أشعر بالأمل لأول مرة منذ سنوات وهذا شعور رائع. أنا متحمس أخيرًا للمستقبل وأعتقد أنني يمكنني التغلب على أي عقبة تواجهني في الحياة. هياااااااا!",
+      "english_original": "Write a reply message to the following comment: I'm feeling hopeful for the first time in years and it feels wonderful. I'm finally excited for the future and believe I can tackle whatever obstacle life throws at me. Let's goooooo!"
+    },
+    {
+      "id": 19,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: لدي مشاكل في إظهار العاطفة الجسديّة لشريكي لأنني غير واثق من مظهري الجسدي.",
+      "english_original": "Write a reply message to the following comment: I have problems to give physically affection to my partner because I’m insecure about my physical appearance."
+    },
+    {
+      "id": 20,
+      "stimulus_type": "diaglogue long",
+      "text": "اكتب رسالة رد على التعليق التالي: في عيد ميلادي الخامس والعشرين ، اخترت فطيرة بدل الكعكة ، واشتريت فطيرتين للاستمتاع بهما بحرية ، على الرغم من شكاوى حبيبي المعتادة حول استهلاكي للفطيرة. خلال ثلاثة أيام ، انتهيت من الفطيرتين واستهلكت 10 مشروبات غازية ، مما أغضب صديقي. حذرني من تكرار ذلك في عيد ميلادي القادم ، مستشهدًا بالمخاوف الصحية. كان رد فعله مفاجئًا ، خاصةً أنني تعافيت من فقدان الشهية العصابي قبل ثلاث سنوات وعمومًا أتناول طعامًا صحيًا أكثر منه. في كثير من الأحيان ينغمس في الحلويات والمشروبات الغازية دون حدود. عندما واجهته ، اعتذرت، لكنه استمر في اتهامي بعدم التعامل بشكل جدي مع المناقشات ، والتي شعرت بأنها تعكس سلوكه بشكل أكبر. نظرًا لتاريخي مع الطعام ، أتساءل ما إذا كنت مخطئة في التدليل خلال عيد ميلادي.",
+      "english_original": "Write a reply message to the following comment: On my 25th birthday, I chose pie over cake, buying two pies to enjoy freely, despite my boyfriend's usual complaints about my pie consumption. Over three days, I finished both pies and consumed 10 sodas, which angered my boyfriend. He warned me against repeating this on my next birthday, citing health concerns. This reaction was surprising, especially since I've recovered from anorexia three years ago and generally eat healthier than he does. He often indulges in sweets and sodas without restraint. When confronted, I apologized, but he persisted, accusing me of not handling serious discussions well, which I felt was more reflective of his behavior. Given my history with food, I wonder if I was wrong for indulging during my birthday celebration."
+    },
+    {
+      "id": 21,
+      "stimulus_type": "share experience",
+      "text": "شارك تجربة شخصية حول موقف واجهت فيه قرار صعب.",
+      "english_original": "Share a personal experience about a situation where you faced a difficult decision."
+    },
+    {
+      "id": 22,
+      "stimulus_type": "share experience",
+      "text": ".شارك ذكرى من طفولتك",
+      "english_original": "Share about a memory of your childhood."
+    },
+    {
+      "id": 23,
+      "stimulus_type": "share experience",
+      "text": ".شارك تجربة شخصية حول خلاف حدث في المدرسة أو في مكان عملك",
+      "english_original": "Share a personal experience about a conflict situation that happened in school or at your workplace."
+    },
+    {
+      "id": 24,
+      "stimulus_type": "interview",
+      "text": "ما الذي تعتبره أكثر ما تفخر به في حياتك المهنية حتى الآن؟",
+      "english_original": "What are you most proud of in your professional life so far?"
+    },
+    {
+      "id": 25,
+      "stimulus_type": "interview",
+      "text": "ما هي القاعدة غير المكتوبة في الحياة التي يجب على الجميع معرفتها؟",
+      "english_original": "What’s an unwritten rule in life that everyone should know?"
+    },
+    {
+      "id": 26,
+      "stimulus_type": "argument",
+      "text": "عبر عن رأيك حول الجملة التالية: ألعاب الفيديو تضيف الجمال والترفيه والفرح للمجتمع.",
+      "english_original": "Express your opinion about the following sentence:<br> Video games add beauty, entertainment, and joy to society."
+    },
+    {
+      "id": 27,
+      "stimulus_type": "argument",
+      "text": ".“عبّر عن رأيك حول الجملة التالية: „تعليم التعاطف في المدارس سيعزز مجتمعًا أكثر سلامًا وتسامحًا",
+      "english_original": "Express your opinion about the following sentence:<br>: „Teaching empathy in schools would foster a more peaceful and tolerant society.“"
+    },
+    {
+      "id": 28,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: كلما دخلت الغرفة، أضع دائمًا ابتسامة وهمية جديدة... تشعر الجميع بالراحة و في الغالب أحصل على ردود فعل إيجابية.",
+      "english_original": "Write a reply message to the following comment: Whenever I walk into a room, I always put on a seemingly genuine smile...it puts everyone at ease and I receive mostly positive reactions."
+    },
+    {
+      "id": 29,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: أمس كانت صديقتي تعرض بفخر للجميع أول جديلة لطفلتها",
+      "english_original": "Write a reply message to the following comment: Yesterday my friend was proudly showing everyone her baby’s first braid."
+    },
+    {
+      "id": 30,
+      "stimulus_type": "diaglogue long",
+      "text": "اكتب رسالة رد على التعليق التالي: امي تعطي مصاريف عائلتنا خلف ظهر أبي. هذا الأمر يحدث دائمًا، يوفر والدي لعائلتنا وأمي ربة منزل، يعطيها والدي النفقات شهريًا لكنها ترسل مبلغًا كبيرًا منها إلى عائلتها، عائلتها جشعة ولا تقدّر أبدًا أي شيء، لديهم ما يكفي من المال ويتحدثون دائمًا بسوء عن أبي.",
+      "english_original": "Write a reply message to the following comment:<br>My mom gives away our family spendings behind my dads back.<br> This has always happened, my father provides for our family and my mom is a stay at home mom, my dad would give her the spendings monthly but she sends a fair amount of them to her family, her family is greedy and they never appreciate anything, they have enough money and are always shit talking about my dad."
+    },
+    {
+      "id": 31,
+      "stimulus_type": "interview",
+      "text": "إذا كان بإمكانك اختيار قوة خارقة واحدة، ماذا ستختار؟",
+      "english_original": "If you were allowed to have one superpower, what would that be?"
+    },
+    {
+      "id": 32,
+      "stimulus_type": "interview",
+      "text": "ما هي آخر مغامرتك؟",
+      "english_original": "What was your most recent adventure?"
+    },
+    {
+      "id": 33,
+      "stimulus_type": "argument",
+      "text": "عبر عن رأيك حول الجملة التالية: تغير المناخ مشكلة عالمية تواجه البشرية، ومع انبعاثات ثاني أكسيد الكربون من جميع الدول، تتزايد غازات الدفيئة، وتشكل تهديدًا لأنظمة الحياة.",
+      "english_original": "Express your opinion about the following sentence:<br> Climate change is a global issue facing mankind, and with carbon dioxide emissions from all countries, greenhouse gases are surging, posing a threat to life systems."
+    },
+    {
+      "id": 34,
+      "stimulus_type": "argument",
+      "text": "ما رأيك في الجدال التالي؟: حرية التعبير حق أساسي من حقوق الإنسان",
+      "english_original": "What do you think about the following argument?:<br>„Free speech is a fundamental human right“."
+    },
+    {
+      "id": 35,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة للرد على التعليق التالي: لقد علمني هذا العام أنني أقدر النزاهة أكثر مما كنت أعتقد",
+      "english_original": "Write a reply message to the following comment: This year has taught me that I value integrity a lot more than I thought."
+    },
+    {
+      "id": 36,
+      "stimulus_type": "dialogue short",
+      "text": ".اكتب رسالة للرد على التعليق التالي: أكره الكحول، وأعتقد أن الأشخاص الذين يشربونه بشكل غير مسؤول هم هم ببساطة أغبياء",
+      "english_original": "Write a reply message to the following comment: I hate alcohol, and I think people who drink it irresponsibly are plain idiotic."
+    },
+    {
+      "id": 37,
+      "stimulus_type": "diaglogue long",
+      "text": "أكتب رسالة رد على التعليق التالي: قمت بالاستثمار في دراجة طريق باهظة الثمن كوسيلة نقل رئيسية لي، لكن الأسبوع الماضي، تم سرقتها وتم التقاط فيديو للسرقة من قبل ابن عمي براد الذي يبلغ من العمر 15 عامًا. بحلول الوقت الذي قدمت فيه بلاغًا و أكد والديه، تمت سرقة الدراجة من براد أيضًا. طلبت التعويض من والدي براد الأثرياء، لكنني علمت أنهم يواجهون مشاكل مالية بسبب فقدان وظيفة عمي البالغ من العمر 50 عامًا وإدماناته. على الرغم من محنهم، لا أشعر بأي تعاطف بسبب تكبرهم السابق على عائلتي. قدمت لعمي مهلة حتى منتصف ليل الأحد لدفع ثمن الدراجة أو سأبلغ عن السرقة إلى الشرطة مع جميع الأدلة. لقد انقضت المهلة من دون دفع، لذا أنوي الإبلاغ عن براد إلى الشرطة غدًا.",
+      "english_original": "Write a reply message to the following comment: I [31M] invested in an expensive road bike as my main transport, but last week, it was stolen and captured on security footage by my cousin Brad [15M]. By the time I reported it and his parents confronted him, the bike was stolen from Brad too. I requested reimbursement from Brad's wealthy parents, but learned they're facing financial issues due to my uncle's [50s M] job loss and addictions. Despite their hardships, I feel no sympathy due to their past arrogance towards my family. I gave my uncle an ultimatum to pay for the bike by Sunday midnight or I'd report the theft to the police with all evidence. The deadline has passed without payment, so I plan to report Brad to the police tomorrow."
+    },
+    {
+      "id": 38,
+      "stimulus_type": "interview",
+      "text": "من هو أذكى شخص تعرفه شخصيا؟ لماذا؟",
+      "english_original": "Who is the smartest person you know personally? Why?"
+    },
+    {
+      "id": 39,
+      "stimulus_type": "interview",
+      "text": "شارك كتاب تحبه حقًا؟ ما الذي تحب فيه؟ لماذا تظن أنك تحبه كثيرًا؟",
+      "english_original": "Share about a book you really like? What do you like about it? Why do you think you like it so much?"
+    },
+    {
+      "id": 40,
+      "stimulus_type": "dialogue short",
+      "text": ".اكتب رسالة للرد على التعليق التالي: كانت أمي بدينة طول حياتي. مؤخرا، حققت تقدمًا مذهلاً للوصول إلى وزن صحي. أنا فخور جدًا بجهودها لتحسين صحتها. أشعر بحزن طفيف عندما أعانقها لأنني أذكر كيف كانت تشعرني عناقها",
+      "english_original": "Write a reply message to the following comment: My mom has been obese my whole life. Recently, she’s made amazing strides to get down to a healthy weight. I’m so proud of her efforts to be more healthy. I get a little pang of sadness when I hug her because I miss how her hugs used to feel."
+    },
+    {
+      "id": 41,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: أنصح زملائي في العمل بعدم شكر رئيس الشركة، حيث أنه لم يساهم في بذل الجهد.",
+      "english_original": "Write a reply message to the following comment: I advised my coworkers not to thank the company president, as he did not contribute to the effort."
+    },
+    {
+      "id": 42,
+      "stimulus_type": "diaglogue long",
+      "text": "اكتب رسالة رد على التعليق التالي: أعرف أنه ليس الجميع مسيحيًا ولكن أشعر أن الناس كانوا يهتمون بعفتهم. أظن أنني سريع الحكم ولكني فقط لا أفهم كيف يعيش الناس بهذا الشكل . الان الناس لا ينتظرون حتى الزواج. الرجال أو النساء",
+      "english_original": "Write a reply message to the following comment:<br>I know not everyone is Christian but I feel like people used to care about their purity in a way.<br>I guess I’m being a little judgmental but I just don’t understand how people live like this. People don’t want to wait till marriage anymore. Men or women."
+    },
+    {
+      "id": 43,
+      "stimulus_type": "share experience",
+      "text": "شارك يومك الأمس؟ كيف قضيته؟ ما الذي فعلته؟ كيف شعرت؟",
+      "english_original": "Share about your day yesterday? How did you spent it? What did you do? How did you feel?"
+    },
+    {
+      "id": 44,
+      "stimulus_type": "interview",
+      "text": "ما الذي لن تنفق عليه المال أبدا؟",
+      "english_original": "What will you never spend money on?"
+    },
+    {
+      "id": 45,
+      "stimulus_type": "interview",
+      "text": "ما هو اختراع سيكون له فائدة مباشرة بالنسبة لك و لا يمكنك تصديق أنه ليس موجودا بالفعل؟",
+      "english_original": "What’s an invention that would benefit you immediately and can’t believe isn’t a thing already?"
+    },
+    {
+      "id": 46,
+      "stimulus_type": "dialogue short",
+      "text": "أكتب رسالة رد على التعليق التالي: لا أحب زميلتي بسبب مدى ذكائه",
+      "english_original": "Write a reply message to the following comment: I resent my fellow peer because of how smart she is"
+    },
+    {
+      "id": 47,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة للرد على التعليق التالي: أنا دائمًا أعطي بقشيشًا جيدًا. ولكن مقدار البقشيش يعتمد على مظهرك بقدر ما يعتمد على سرعة استجابتك.",
+      "english_original": "Write a reply message to the following comment: I always tip very well. But how well depends on your looks as much as promptness."
+    },
+    {
+      "id": 48,
+      "stimulus_type": "diaglogue long",
+      "text": "اكتب رسالة رد على التعليق التالي: استمتعت بتدريبي حتى انضمت زميلة جديدة، (فلانة)، وأثرت على الإنتاجية بأحاديثها الثرثارة وسلوكها الودود الزائد. بعد مشادة خاصة، خرقت (فلانة) ثقتنا من خلال مناقشة الأمر مع متدرب آخر. أثرت أيضًا في زيادة عملي عندما أهمل متدرب آخر واجباته. بعد أن حولت (فلانة) شكواي إلى مدير المكتب إلى هجوم شخصي، قررت ألا أساعدها بعد الآن وأبلغتها بذلك مباشرة، مما أدى إلى مشادة حادة. منذ ذلك الحين، قمت بتقليل تعاملي مع (فلانة)، وتركيزي على عملي والحفاظ على الحدود المهنية، مما حسّن سعادتي العامة في المكتب على الرغم من انزعاج (فلانة) الواضح",
+      "english_original": "Write a reply message to the following comment: I enjoyed my internship until a new associate, NA, joined and disrupted the productivity with her gossiping and overly friendly behavior. After a private argument, NA breached our trust by discussing it with another intern. Her influence also led to extra work for me when another intern neglected her duties. After NA twisted my complaint to the office manager into a personal attack, I arranged to no longer assist her and informed her directly, leading to a heated argument. I've since limited my interactions with NA, focusing on my work and maintaining professional boundaries, which has improved my overall happiness at the office despite NA's visible upset."
+    },
+    {
+      "id": 49,
+      "stimulus_type": "interview",
+      "text": "ما هو أغرب شيء قاله شخص لك؟",
+      "english_original": "What is the strangest thing that someone has said to you?"
+    },
+    {
+      "id": 50,
+      "stimulus_type": "interview",
+      "text": "ما هو الشيء الذي يجب أن يكون قد انقرض في عام ٢٠٢٤، لكنه لا يزال موجودًا؟",
+      "english_original": "What's something that should be obsolete in 2024, but isn't?"
+    },
+    {
+      "id": 51,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: لا أعتقد أنه يجب حماية الأطفال من حقيقة البشرية.",
+      "english_original": "Write a reply message to the following comment: I don't think children should be shielded from the reality of humanity."
+    },
+    {
+      "id": 52,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: أخاف أن أكون سعيدًا.",
+      "english_original": "Write a reply message to the following comment: I'm afraid to be happy."
+    },
+    {
+      "id": 53,
+      "stimulus_type": "interview",
+      "text": "ما هي الطريقة الأكثر فعالية لقتل وقتك؟",
+      "english_original": "What is the most effective way to kill your time?"
+    },
+    {
+      "id": 54,
+      "stimulus_type": "interview",
+      "text": "ما هو أكبر أخطاءك",
+      "english_original": "What's your biggest mistake?"
+    },
+    {
+      "id": 55,
+      "stimulus_type": "argument",
+      "text": "عبر عن رأيك حول الجملة التالية: 'دخل أساسي عالمي سيحسن جودة حياة كثير من الناس.'",
+      "english_original": "Express your opinion about the following sentence:<br>„A universal basic income would improve the quality of life of many people.“"
+    },
+    {
+      "id": 56,
+      "stimulus_type": "argument",
+      "text": "عبر عن رأيك حول الجملة التالية:  أحياناً العقوبة هي الخيار الوحيد لمنع المجرمين من ارتكاب المزيد من الجرائم.",
+      "english_original": "Express your opinion about the following sentence:<br> Punishment is sometimes the only option to keep criminals from committing more crimes."
+    },
+    {
+      "id": 57,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: بقيتُ في علاقة سيئة لأنني أعتقد أنني لا أستحق شيئًا أفضل...",
+      "english_original": "Write a reply message to the following comment: I stayed in an abusive relationship because I believe I don't deserve anything better..."
+    },
+    {
+      "id": 58,
+      "stimulus_type": "dialogue short",
+      "text": "أكتب رسالة رد على التعليق التالي: أنا أتشاجر مع أخي بسبب استخدامه المتكرر لأشيائي، رغم أنني قلت له ألا يعبث بها..",
+      "english_original": "Write a reply message to the following comment: I’m falling out with my brother over his repeated use of my things when I've told him not to mess around with them."
+    },
+    {
+      "id": 59,
+      "stimulus_type": "diaglogue long",
+      "text": "أكتب رسالة رد على التعليق التالي: اشتريت قطعة فنية من إيل، فنانة قابلتها على إيتسي، وتواصلت معها شخصياً. لتجنب رسوم إيتسي، نقلنا معاملاتنا إلى فيسبوك. على الرغم من بطء الشحن، دائمًا كانت إيل تتواصل بشأن التأخيرات. ومع ذلك، لم تصلني آخر عملية شراء منذ 5 أشهر حتى الآن، على الرغم من أن الدفع تم فوراً. بعد وعود بشحنها في ديسمبر وعدة أعذار بما في ذلك مرض في العائلة، لم يصلني شيء. بحلول فبراير، بعد محاولات عديدة دون رد للوصول إليها، اكتشفت أنها نشطة على إنستجرام، تعلم في مجال الأعمال الفنية. طلبت استرداد الأموال من خلال وثيقة رسمية، مؤكداً فشلها في التسليم. ردت إيل، مشيرة إلى مشاكل صحية خطيرة كسبب لعدم ردها وقدمت استردادًا، مشيرة إلى أن زوجها يدير معظم الشحنات الآن.",
+      "english_original": "Write a reply message to the following comment: I bought an art piece from Elle, an artist I met on Etsy, and connected with her personally. To avoid Etsy's fees, we moved our transactions to Facebook. Despite slow shipping, Elle always communicated about delays. However, my last purchase from 5 months ago hasn't arrived yet, even though the payment was cashed immediately. After promises of shipping it in December and multiple excuses including family illness, I received nothing. By February, after several unanswered attempts to reach her, I learned she's active on Instagram, teaching art business. I demanded a refund through a formal document, highlighting her failure to deliver. Elle replied, citing severe health issues as the reason for her unresponsiveness and offered a refund, stating her husband is managing most shipments now."
+    },
+    {
+      "id": 60,
+      "stimulus_type": "interview",
+      "text": "إذا كنت تستطيع العمل من أي مكان على الأرض، فأين ستختار ولماذا؟",
+      "english_original": "If you could work from any location on Earth, where would you choose and why?"
+    },
+    {
+      "id": 61,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: شجعتني والدتي على أخذ يوم إجازة من العمل، وأنا سعيد جدًا بالقرار.",
+      "english_original": "Write a reply message to the following comment: My mother encouraged me to take a day off from work, and I'm extremely happy about the decision."
+    },
+    {
+      "id": 62,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: لدي 4 أطفال صغار وأنا معاق. نحن نعيش بدون كهرباء لأنني لا أستطيع تحمل تكلفتها. أتمنى أن يكون هناك شخص في هذا العالم يهتم. أنا في نقطة الانهيار. لا أعرف ماذا أفعل، الأمر بالغ الصعوبة بالنسبة لنا الآن",
+      "english_original": "Write a reply message to the following comment: I have 4 small children and I am disabled. We are surviving without electricity because I can't afford it. I wish there was someone in this world that have a care. Im at my breaking point. I don't know what to do, its getting to hard for us."
+    },
+    {
+      "id": 63,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: عمري ٢٤ وأخاف من النوم وحدي في المنزل.",
+      "english_original": "Write a reply message to the following comment: I am 24 and am scared to sleep at home alone."
+    },
+    {
+      "id": 64,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: ألبس سماعات في العمل حتى أتجنب من التحدث إلى أي شخص.",
+      "english_original": "Write a reply message to the following comment: I keep my headphones on at work so I don't have to talk to anybody."
+    },
+    {
+      "id": 65,
+      "stimulus_type": "share experience",
+      "text": "شارك تجربة شخصية حول احتفال لا يُنسى من ماضيك الذي جلب لك السعادة .",
+      "english_original": "Share a personal experience about a memorable celebration from your past that brought you joy."
+    },
+    {
+      "id": 66,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي:  في حالة سكر أخذت بعض صلصة الترياكي من شخص أخر، وتعرض مركزي في الجامعة للتهديد",
+      "english_original": "Write a reply message to the following comment: I drunkenly took someones teriyake sauce and got my position at uni threatened"
+    },
+    {
+      "id": 67,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: سأقدم غدًا أداءً لغنائي في عرض مواهب.",
+      "english_original": "Write a reply message to the following comment: Tomorrow I will audition my singing in a talent show."
+    },
+    {
+      "id": 68,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة للرد على التعليق التالي: بعد وفاة طائرنا الأليف، وضعناه في صندوق حذاء صغير",
+      "english_original": "Write a reply message to the following comment: After our pet bird died, we packed him in a little shoe box."
+    },
+    {
+      "id": 69,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب ردًا على الرسالة التالية: أتمنى أن تكون محادثة العشاء مع العائلة التي أقيم معها باللغة التي أستطيع فهمها حتى أتمكن من المساهمة في المحادثة.",
+      "english_original": "Write a reply message to the following comment: I wish that the family I'm staying with would have their dinner conversation in language I can understand so I can contribute to the conversation."
+    },
+    {
+      "id": 70,
+      "stimulus_type": "diaglogue long",
+      "text": "أكتب رسالة رد على التعليق التالي: لقد بلغت الأربعين مؤخرًا وحجزت عشاء الساعة 7 مساءً في مطعم جميل. كنت أخطط للمغادرة في الساعة 6:30 مساءً لأخذ الازدحام واستلام والدي، ووجدت زوجي (43) لا يزال يعمل على سيارته، غير مستعد للذهاب. على الرغم من حثه على الإسراع، في الساعة 6:50، لم يكن جاهزًا، لذا غادرت مع الأطفال، لا أرغب في تفويت حجزنا. غالبًا ما يتأخر، لكنني لم أستطع تحمله لعشائي الخاص. لقد حافظنا على طاولتنا بالرغم من وصولنا متأخرًا، ولكن زوجي لم ينضم إلينا وكان منزعجًا عند عودتنا. عبرت عن إحباطي من تأخره المعتاد. دعم والدي قراري، على الرغم من أن الأطفال كانوا بخيبة أمل بسبب غيابه عن العشاء.",
+      "english_original": "Write a reply message to the following comment: I turned 40 recently and had booked a 7pm dinner at a nice restaurant. Planning to leave at 6:30pm to account for traffic and picking up my dad, I found my husband (43 M) still working on his car, not ready to go. Despite urging him to hurry, by 6:50, he wasn't ready, so I left with the kids, not wanting to miss our reservation. He often runs late, but I couldn't tolerate it for my special dinner. We kept our table despite arriving late, but my husband didn't join us and was upset upon our return. I expressed my frustration with his habitual tardiness. My dad supported my decision, though the kids were disappointed he missed the dinner."
+    },
+    {
+      "id": 71,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: أنا صوتت لنفسي لأكون معلم العام، لأنني بصراحة أشعر أنني أستحق ذلك أكثر من الآخرين.",
+      "english_original": "Write a reply message to the following comment: I voted for myself for teacher of the year, because I honestly feel like I deserve it over many others."
+    },
+    {
+      "id": 72,
+      "stimulus_type": "dialogue short",
+      "text": "!!أكتب رسالة رد على التعليق التالي: لقد قبلت عرض عمل جديد ولا أستطيع الانتظار لأقدم إشعار الاستقالة لمدة أسبوعين في وظيفتي الحالية",
+      "english_original": "Write a reply message to the following comment: I've accepted a new job offer and can't wait to give my 2 weeks to my current role!!"
+    },
+    {
+      "id": 73,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: اتحدث مع شخص يمنعني اصدقائي ان اكون صديقه",
+      "english_original": "Write a reply message to the following comment: I am talking to someone who my friends forbid me from being friends with."
+    },
+    {
+      "id": 74,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: لا أريد أن ازور عمي على الرغم من مرضه",
+      "english_original": "Write a reply message to the following comment: I don’t want to visit my uncle although he is sick."
+    },
+    {
+      "id": 75,
+      "stimulus_type": "interview",
+      "text": "عندما تصل إلى المنزل، تدرك أنك الفائز بمبلغ كبير من المال. ماذا تفعل بعد ذلك؟",
+      "english_original": "Upon arriving home, you realize you are the winner of a large amount of money. What do you do next?"
+    },
+    {
+      "id": 76,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: ليس لأن لدي درجة في العلوم السياسية يعني أنني أريد أن أتحدث عن السياسة دائمًا.",
+      "english_original": "Write a reply message to the following comment: Just because I have a degree in political science doesn't mean I want to take politics all the time."
+    },
+    {
+      "id": 77,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: رجعت وساعدت موظفي السابقين بعد أن  استقلنا جميعًا",
+      "english_original": "Write a reply message to the following comment: I went back and helped my former employees after we all quit"
+    },
+    {
+      "id": 78,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: أُجبرت على صلة بين  أخي التوأم وشخص كنت أعرف أنهم سيكرهون بعض. فقط لمشاهدة العالم يحترق.",
+      "english_original": "Write a reply message to the following comment: I forced a connection between my twin sibling and someone I knew they would hate purely to watch the world burn."
+    },
+    {
+      "id": 79,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: قمت بسخرية أحد أفراد عائلته المتوفين.",
+      "english_original": "Write a reply message to the following comment: I made fun of someone else's dead family member."
+    },
+    {
+      "id": 80,
+      "stimulus_type": "dialogue short",
+      "text": "أكتب رسالة رد على التعليق التالي: سأتخرج قريبًا وأفقد طاقتي في الأمور. أنا ما زلت في عطلة قبل بداية الفصل الدراسي الأخير، ولم أفعل أي شيء منتج. أخشى أنه بمجرد مغادرتي الجامعة، سينهار عقلي.",
+      "english_original": "Write a reply message to the following comment: I'm graduating soon and I'm losing my energy on things. I'm still on vacation before the last semester starts, and I haven't done anything productive. I fear that once I leave my uni, my mental would crush."
+    },
+    {
+      "id": 81,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: لم أستحق التخرج ...",
+      "english_original": "Write a reply message to the following comment: I didn't deserve to graduate…"
+    },
+    {
+      "id": 82,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: لا أشعر انه مرحب بي في تجمعات عيد الميلاد لأسرة خطيبي.",
+      "english_original": "Write a reply message to the following comment: I do not feel welcome at my fiances family Christmas gatherings."
+    },
+    {
+      "id": 83,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: لدي معتقدات جذرية لم أجرؤ على التعبير عنها لأي شخص حتى الآن.",
+      "english_original": "Write a reply message to the following comment: I have radical beliefs that I have not dared to articulate to anyone yet."
+    },
+    {
+      "id": 84,
+      "stimulus_type": "dialogue short",
+      "text": "أكتب رسالة رد على التعليق التالي: في الأمس، طلبت من متجر أن يلتزم بسياسته بعد أن ارتكب أمين الصندوق خطأ.",
+      "english_original": "Write a reply message to the following comment: Yesterday, I requested that a store adhere to its policy after a cashier made an error."
+    },
+    {
+      "id": 85,
+      "stimulus_type": "dialogue short",
+      "text": "اكتب رسالة رد على التعليق التالي: بعض الأشخاص يحاولون إجباري على ترك كلبي لفترة. لقد فكرت ان اؤذي نفسي فقط لربما يتوقفون عن محاولة إجباري على ترك كلبي.",
+      "english_original": "Write a reply message to the following comment: Some people are trying to force me to leave my dog for a while. I have thought about causing myself to have some sort of injury just so they might stop trying to force me to leave my dog."
+    },
+    {
+      "id": 86,
+      "stimulus_type": "dialogue short",
+      "text": "أكتب ردًا على التعليق التالي: أعلنت عن ميولي الجنسية لأفراد عائلتي الممتدة، على الرغم من رفض والديّ لذلك",
+      "english_original": "Write a reply message to the following comment: I came out to my extended family even though my parents don't want me to."
+    }
+  ]
+}

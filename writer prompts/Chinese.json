@@ -1,0 +1,409 @@
+{
+  "language": "Chinese",
+  "n_prompts": 66,
+  "prompt_types": [
+    "argument",
+    "diaglogue long",
+    "dialogue short",
+    "interview",
+    "share experience"
+  ],
+  "prompts": [
+    {
+      "id": 1,
+      "stimulus_type": "share experience",
+      "text": "分享一段过去令你印象深刻的，给你带来快乐的一次庆祝活动。",
+      "english_original": "Share a personal experience about a memorable celebration from your past that brought you joy."
+    },
+    {
+      "id": 2,
+      "stimulus_type": "share experience",
+      "text": "分享一下你昨天的日子？你是怎样度过的？你做了什么？你感觉如何？",
+      "english_original": "Share about your day yesterday? How did you spent it? What did you do? How did you feel?"
+    },
+    {
+      "id": 3,
+      "stimulus_type": "share experience",
+      "text": "分享一段您童年的回忆。",
+      "english_original": "Share about a memory of your childhood."
+    },
+    {
+      "id": 4,
+      "stimulus_type": "interview",
+      "text": "当你到家后，你意识到自己是一大笔钱的赢家。接下来你会做什么？",
+      "english_original": "Upon arriving home, you realize you are the winner of a large amount of money. What do you do next?"
+    },
+    {
+      "id": 5,
+      "stimulus_type": "interview",
+      "text": "你个人认识的最聪明的人是谁？为什么？",
+      "english_original": "Who is the smartest person you know personally? Why?"
+    },
+    {
+      "id": 6,
+      "stimulus_type": "argument",
+      "text": "对以下句子表达您的观点：<br>我们没有权利让动物受苦，即使对我们有好处。",
+      "english_original": "Express your opinion about the following sentence:<br> We have no right to make animals suffer, even though there are benefits for us."
+    },
+    {
+      "id": 7,
+      "stimulus_type": "argument",
+      "text": "表达你对以下句子的看法：<br> 惩罚有时是阻止罪犯再犯罪的唯一选择。",
+      "english_original": "Express your opinion about the following sentence:<br> Punishment is sometimes the only option to keep criminals from committing more crimes."
+    },
+    {
+      "id": 8,
+      "stimulus_type": "dialogue short",
+      "text": "给以下评论写一条回复信息：每当我走进一个房间，我总是面带真诚的微笑。。。这让每个人都很放松，并且我收到的大多是积极的反应",
+      "english_original": "Write a reply message to the following comment: Whenever I walk into a room, I always put on a seemingly genuine smile...it puts everyone at ease and I receive mostly positive reactions."
+    },
+    {
+      "id": 9,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：我建议我的同事们不要感谢公司总裁，因为他没有为这个努力做出贡献。",
+      "english_original": "Write a reply message to the following comment: I advised my coworkers not to thank the company president, as he did not contribute to the effort."
+    },
+    {
+      "id": 10,
+      "stimulus_type": "diaglogue long",
+      "text": "写一个回复留言给以下评论：<br>我妈妈背着我爸爸把我们家庭的花销送出去。<br>这种情况经常发生，我爸爸养家糊口，我妈妈是个全职太太，我爸爸会每个月给她生活费，但她把其中相当一部分送给她的家人，她的家人很贪婪，从来不感激，他们有足够的钱，却总是在背后说我爸爸的坏话。",
+      "english_original": "Write a reply message to the following comment:<br>My mom gives away our family spendings behind my dads back.<br> This has always happened, my father provides for our family and my mom is a stay at home mom, my dad would give her the spendings monthly but she sends a fair amount of them to her family, her family is greedy and they never appreciate anything, they have enough money and are always shit talking about my dad."
+    },
+    {
+      "id": 11,
+      "stimulus_type": "share experience",
+      "text": "分享一次在学校或工作场所发生的冲突情况的个人经历。",
+      "english_original": "Share a personal experience about a conflict situation that happened in school or at your workplace."
+    },
+    {
+      "id": 12,
+      "stimulus_type": "share experience",
+      "text": "分享一次您克服困难情况的经历。那时的情况是什么，您是如何克服它的？您从这次经历中学到了什么？",
+      "english_original": "Share about a time you overcame a challenging situation. What was the situation and how did you overcome it? What did you learn from that experience?"
+    },
+    {
+      "id": 13,
+      "stimulus_type": "share experience",
+      "text": "分享一下你最近取得的小胜利。",
+      "english_original": "Share about a small victory you recently had."
+    },
+    {
+      "id": 14,
+      "stimulus_type": "interview",
+      "text": "你最近的冒险是什么？",
+      "english_original": "What was your most recent adventure?"
+    },
+    {
+      "id": 15,
+      "stimulus_type": "interview",
+      "text": "分享一本你真的喜欢的书？你喜欢它什么？为什么你觉得你这么喜欢它？",
+      "english_original": "Share about a book you really like? What do you like about it? Why do you think you like it so much?"
+    },
+    {
+      "id": 16,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：我在未婚夫的家庭圣诞聚会上感到不受欢迎。",
+      "english_original": "Write a reply message to the following comment: I do not feel welcome at my fiances family Christmas gatherings."
+    },
+    {
+      "id": 17,
+      "stimulus_type": "dialogue short",
+      "text": "写一个回复消息给以下评论: 我有4个小孩，我残疾。我们没有电，因为我负担不起。我希望世界上有人关心。我快要崩溃了，不知道该怎么办，对我们来说太难了。",
+      "english_original": "Write a reply message to the following comment: I have 4 small children and I am disabled. We are surviving without electricity because I can't afford it. I wish there was someone in this world that have a care. Im at my breaking point. I don't know what to do, its getting to hard for us."
+    },
+    {
+      "id": 18,
+      "stimulus_type": "share experience",
+      "text": "分享一下你对一个问题的强烈看法。为什么你觉得你如此关心它？有人曾经质疑过你吗？后续发展怎么样?",
+      "english_original": "Share about an issue you feel strongly about. Why do you think you care so much about it? Has anyone ever challenged you on it? How did it go?"
+    },
+    {
+      "id": 19,
+      "stimulus_type": "interview",
+      "text": "如果你可以在地球上的任何地方工作，你会选择哪里，为什么？",
+      "english_original": "If you could work from any location on Earth, where would you choose and why?"
+    },
+    {
+      "id": 20,
+      "stimulus_type": "interview",
+      "text": "有什么还没有发明的东西会让你立刻受益？",
+      "english_original": "What’s an invention that would benefit you immediately and can’t believe isn’t a thing already?"
+    },
+    {
+      "id": 21,
+      "stimulus_type": "dialogue short",
+      "text": "写一条回复消息给以下评论：我有政治科学学位并不意味着我想一直谈论政治。",
+      "english_original": "Write a reply message to the following comment: Just because I have a degree in political science doesn't mean I want to take politics all the time."
+    },
+    {
+      "id": 22,
+      "stimulus_type": "dialogue short",
+      "text": "对以下评论进行回复：我总是很慷慨地给小费。但是给得多少取决于你的外表和及时性。",
+      "english_original": "Write a reply message to the following comment: I always tip very well. But how well depends on your looks as much as promptness."
+    },
+    {
+      "id": 23,
+      "stimulus_type": "diaglogue long",
+      "text": "回复以下评论：最近我过了40岁生日，预定了晚上7点在一家不错的餐厅吃饭。考虑到交通和接爸爸，我计划在6:30离开。结果我发现我丈夫（43岁男性）还在忙着修车，没有准备好。虽然我催促他赶紧，到了6:50，他还没准备好，我不想错过我们的预订，所以我带着孩子离开了。他经常迟到，但我不能容忍他在我特别的晚餐上迟到。尽管我们迟到了，但我们的预定还有效，但我丈夫没有加入我们，我们回来后感到很不高兴。我表达了我对他惯常迟到的沮丧。我爸爸支持我的决定，虽然孩子们很失望他错过了晚餐。",
+      "english_original": "Write a reply message to the following comment: I turned 40 recently and had booked a 7pm dinner at a nice restaurant. Planning to leave at 6:30pm to account for traffic and picking up my dad, I found my husband (43 M) still working on his car, not ready to go. Despite urging him to hurry, by 6:50, he wasn't ready, so I left with the kids, not wanting to miss our reservation. He often runs late, but I couldn't tolerate it for my special dinner. We kept our table despite arriving late, but my husband didn't join us and was upset upon our return. I expressed my frustration with his habitual tardiness. My dad supported my decision, though the kids were disappointed he missed the dinner."
+    },
+    {
+      "id": 24,
+      "stimulus_type": "share experience",
+      "text": "分享一次关于你和家人或朋友之间的冲突情况的个人经历。",
+      "english_original": "Share a personal experience about a conflict situation between you and your family or friends."
+    },
+    {
+      "id": 25,
+      "stimulus_type": "share experience",
+      "text": "分享一次你改变主意或改变对某事的看法的经历。是什么让你改变主意的？那次经历对你来说是什么样的？",
+      "english_original": "Share about a time you changed your mind or thinking about something. What happened that made you change your mind? What was that experience like for you?"
+    },
+    {
+      "id": 26,
+      "stimulus_type": "interview",
+      "text": "2024年應該過時但沒有的東西是什麼？",
+      "english_original": "What's something that should be obsolete in 2024, but isn't?"
+    },
+    {
+      "id": 27,
+      "stimulus_type": "interview",
+      "text": "你认为美好的一天是怎么样的？",
+      "english_original": "What is your idea of an amazing day?"
+    },
+    {
+      "id": 28,
+      "stimulus_type": "argument",
+      "text": "表达你对以下句子的看法：气候变化是全人类面临的全球性问题，各国的二氧化碳排放量不断增加，温室气体激增，对生态系统构成威胁。",
+      "english_original": "Express your opinion about the following sentence:<br> Climate change is a global issue facing mankind, and with carbon dioxide emissions from all countries, greenhouse gases are surging, posing a threat to life systems."
+    },
+    {
+      "id": 29,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：在我们的宠物鸟去世后，我们把它装在一个小鞋盒里。",
+      "english_original": "Write a reply message to the following comment: After our pet bird died, we packed him in a little shoe box."
+    },
+    {
+      "id": 30,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：我强行让我双胞胎兄弟和我认识的一个他们会讨厌的人建立了联系，纯粹是为了看热闹。",
+      "english_original": "Write a reply message to the following comment: I forced a connection between my twin sibling and someone I knew they would hate purely to watch the world burn."
+    },
+    {
+      "id": 31,
+      "stimulus_type": "diaglogue long",
+      "text": "回复以下评论：我[31岁男性]投资了一辆昂贵的公路自行车作为我的主要交通工具，但上周被我的表弟Brad[15岁男性]偷走，并被监控录像拍到。在我报案之前，他的父母与他对质，然后自己的自行车也被偷了。我要求Brad富有的父母赔偿，但得知由于我叔叔[50多岁男性]失业和上瘾问题，他们面临财务问题。尽管他们遭遇了困境，我并不同情他们，因为他们以前对我的家庭的很傲慢。我给了我叔叔最后通牒，要他在周日午夜之前支付自行车的钱，否则我将向警察报告偷窃，并提供所有证据。截止日期已经过去，他们没有支付，所以我计划明天报警举报Brad。",
+      "english_original": "Write a reply message to the following comment: I [31M] invested in an expensive road bike as my main transport, but last week, it was stolen and captured on security footage by my cousin Brad [15M]. By the time I reported it and his parents confronted him, the bike was stolen from Brad too. I requested reimbursement from Brad's wealthy parents, but learned they're facing financial issues due to my uncle's [50s M] job loss and addictions. Despite their hardships, I feel no sympathy due to their past arrogance towards my family. I gave my uncle an ultimatum to pay for the bike by Sunday midnight or I'd report the theft to the police with all evidence. The deadline has passed without payment, so I plan to report Brad to the police tomorrow."
+    },
+    {
+      "id": 32,
+      "stimulus_type": "interview",
+      "text": "你最大的错误是什么？",
+      "english_original": "What's your biggest mistake?"
+    },
+    {
+      "id": 33,
+      "stimulus_type": "dialogue short",
+      "text": "写一个回复消息给以下评论：这是我多年来第一次感到充满希望，感觉真好。我终于对未来感到兴奋，并相信我可以克服生活中的任何障碍。加油！",
+      "english_original": "Write a reply message to the following comment: I'm feeling hopeful for the first time in years and it feels wonderful. I'm finally excited for the future and believe I can tackle whatever obstacle life throws at me. Let's goooooo!"
+    },
+    {
+      "id": 34,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：我向我的远房家人出柜了，尽管我的父母不希望我这样做。",
+      "english_original": "Write a reply message to the following comment: I came out to my extended family even though my parents don't want me to."
+    },
+    {
+      "id": 35,
+      "stimulus_type": "interview",
+      "text": "什么是最有效的打发时间的方式？",
+      "english_original": "What is the most effective way to kill your time?"
+    },
+    {
+      "id": 36,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：我无法给予我的伴侣肢体上的亲昵因为我对自己的外貌不自信。",
+      "english_original": "Write a reply message to the following comment: I have problems to give physically affection to my partner because I’m insecure about my physical appearance."
+    },
+    {
+      "id": 37,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：我投票给自己当年度教师，因为我真的觉得我比很多人更该得到这个奖。",
+      "english_original": "Write a reply message to the following comment: I voted for myself for teacher of the year, because I honestly feel like I deserve it over many others."
+    },
+    {
+      "id": 38,
+      "stimulus_type": "interview",
+      "text": "到目前为止，您在职业生涯中最引以为豪的是什么？",
+      "english_original": "What are you most proud of in your professional life so far?"
+    },
+    {
+      "id": 39,
+      "stimulus_type": "dialogue short",
+      "text": "写一条回复消息给以下评论：我有激进的信仰，但我还没有敢对任何人表达。",
+      "english_original": "Write a reply message to the following comment: I have radical beliefs that I have not dared to articulate to anyone yet."
+    },
+    {
+      "id": 40,
+      "stimulus_type": "dialogue short",
+      "text": "写一个回复信息给以下评论：我妈妈鼓励我从工作中休息一天，我对这个决定非常高兴。",
+      "english_original": "Write a reply message to the following comment: My mother encouraged me to take a day off from work, and I'm extremely happy about the decision."
+    },
+    {
+      "id": 41,
+      "stimulus_type": "interview",
+      "text": "您相信魔术吗？如果是这样，您如何定义它？",
+      "english_original": "Do you believe in magic? If so, how do you define it?"
+    },
+    {
+      "id": 42,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：明天我将在才艺秀上试唱。",
+      "english_original": "Write a reply message to the following comment: Tomorrow I will audition my singing in a talent show."
+    },
+    {
+      "id": 43,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：我24岁，害怕一个人在家睡觉。",
+      "english_original": "Write a reply message to the following comment: I am 24 and am scared to sleep at home alone."
+    },
+    {
+      "id": 44,
+      "stimulus_type": "interview",
+      "text": "生活中有哪些不成文的规则是每个人都应该知道的？",
+      "english_original": "What’s an unwritten rule in life that everyone should know?"
+    },
+    {
+      "id": 45,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：昨天我的朋友自豪地向大家展示她宝贝的第一条辫子。",
+      "english_original": "Write a reply message to the following comment: Yesterday my friend was proudly showing everyone her baby’s first braid."
+    },
+    {
+      "id": 46,
+      "stimulus_type": "dialogue short",
+      "text": "写一个回复消息给以下的评论: 我想在我18岁的时候离开我的家庭。",
+      "english_original": "Write a reply message to the following comment: I want to, when I turn 18, leave my family."
+    },
+    {
+      "id": 47,
+      "stimulus_type": "interview",
+      "text": "你被困在一个荒岛上，身边只有两样东西。它们是什么？",
+      "english_original": "You’re stranded on a deserted island with two things with you. What are they?"
+    },
+    {
+      "id": 48,
+      "stimulus_type": "interview",
+      "text": "如果你被允许拥有一种超能力，那会是什么？",
+      "english_original": "If you were allowed to have one superpower, what would that be?"
+    },
+    {
+      "id": 49,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：我即将毕业了，对事情失去了热情。我还在最后一个学期开始之前度假，什么也没做。我担心一旦离开大学，我的精神会崩溃。",
+      "english_original": "Write a reply message to the following comment: I'm graduating soon and I'm losing my energy on things. I'm still on vacation before the last semester starts, and I haven't done anything productive. I fear that once I leave my uni, my mental would crush."
+    },
+    {
+      "id": 50,
+      "stimulus_type": "dialogue short",
+      "text": "对以下评论写一个回复消息：我和我的兄弟因为他一再使用我的东西而闹翻了，尽管我告诉过他不要乱动它们。",
+      "english_original": "Write a reply message to the following comment: I’m falling out with my brother over his repeated use of my things when I've told him not to mess around with them."
+    },
+    {
+      "id": 51,
+      "stimulus_type": "interview",
+      "text": "有人对你说过最奇怪的事情是什么？",
+      "english_original": "What is the strangest thing that someone has said to you?"
+    },
+    {
+      "id": 52,
+      "stimulus_type": "interview",
+      "text": "请分享一部你非常喜欢的电影？你喜欢它的什么？为什么你觉得你那么喜欢它？",
+      "english_original": "Share about a movie you really like? What do you like about it? Why do you think you like it so much?"
+    },
+    {
+      "id": 53,
+      "stimulus_type": "dialogue short",
+      "text": "写一个回复消息给下面的评论：我讨厌酒精，我认为那些不负责任地喝酒的人很愚蠢。",
+      "english_original": "Write a reply message to the following comment: I hate alcohol, and I think people who drink it irresponsibly are plain idiotic."
+    },
+    {
+      "id": 54,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：我妈妈一直很胖。最近，她为了减肥已经取得了惊人的进展。我为她做出更健康努力感到非常自豪。当我拥抱她时，会有一丝伤感，因为我怀念她以前的拥抱感觉。",
+      "english_original": "Write a reply message to the following comment: My mom has been obese my whole life. Recently, she’s made amazing strides to get down to a healthy weight. I’m so proud of her efforts to be more healthy. I get a little pang of sadness when I hug her because I miss how her hugs used to feel."
+    },
+    {
+      "id": 55,
+      "stimulus_type": "dialogue short",
+      "text": "给以下评论写一条回复信息：我告诉人们我会为他们祈祷，但我从来没有这样做过。",
+      "english_original": "Write a reply message to the following comment: I tell people I will pray for them but I never do."
+    },
+    {
+      "id": 56,
+      "stimulus_type": "dialogue short",
+      "text": "写一个回复消息给以下评论：我嘲笑了别人的逝世家庭成员。",
+      "english_original": "Write a reply message to the following comment: I made fun of someone else's dead family member."
+    },
+    {
+      "id": 57,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：我正在和一些我朋友不希望我交朋友的人说话。",
+      "english_original": "Write a reply message to the following comment: I am talking to someone who my friends forbid me from being friends with."
+    },
+    {
+      "id": 58,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：今年教会我珍视诚信的重要性，这点我之前并没有意识到。",
+      "english_original": "Write a reply message to the following comment: This year has taught me that I value integrity a lot more than I thought."
+    },
+    {
+      "id": 59,
+      "stimulus_type": "dialogue short",
+      "text": "写一个回复消息给以下评论：我害怕开心。",
+      "english_original": "Write a reply message to the following comment: I'm afraid to be happy."
+    },
+    {
+      "id": 60,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：我不配毕业...",
+      "english_original": "Write a reply message to the following comment: I didn't deserve to graduate…"
+    },
+    {
+      "id": 61,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：我在工作时戴上耳机，这样就不用和任何人说话了。",
+      "english_original": "Write a reply message to the following comment: I keep my headphones on at work so I don't have to talk to anybody."
+    },
+    {
+      "id": 62,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：尽管我的叔叔生病，但我不想去拜访他。",
+      "english_original": "Write a reply message to the following comment: I don’t want to visit my uncle although he is sick."
+    },
+    {
+      "id": 63,
+      "stimulus_type": "dialogue short",
+      "text": "请回复以下评论：我认为孩子们不应该被屏蔽人性的现实。",
+      "english_original": "Write a reply message to the following comment: I don't think children should be shielded from the reality of humanity."
+    },
+    {
+      "id": 64,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：我希望我住的家庭能用我能理解的语言进行晚餐交谈，这样我就能参与到谈话中。",
+      "english_original": "Write a reply message to the following comment: I wish that the family I'm staying with would have their dinner conversation in language I can understand so I can contribute to the conversation."
+    },
+    {
+      "id": 65,
+      "stimulus_type": "dialogue short",
+      "text": "写一个回复消息给以下评论：昨天，我要求一家商店遵守其政策，因为收银员犯了错误。",
+      "english_original": "Write a reply message to the following comment: Yesterday, I requested that a store adhere to its policy after a cashier made an error."
+    },
+    {
+      "id": 66,
+      "stimulus_type": "dialogue short",
+      "text": "回复以下评论：我留在一段虐待关系中，因为我相信我不配得到更好的东西...",
+      "english_original": "Write a reply message to the following comment: I stayed in an abusive relationship because I believe I don't deserve anything better..."
+    }
+  ]
+}

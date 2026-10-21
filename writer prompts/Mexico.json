@@ -1,0 +1,529 @@
+{
+  "language": "Spanish (Mexico)",
+  "n_prompts": 86,
+  "prompt_types": [
+    "argument",
+    "diaglogue long",
+    "dialogue short",
+    "interview",
+    "share experience"
+  ],
+  "prompts": [
+    {
+      "id": 1,
+      "stimulus_type": "share experience",
+      "text": "Comparte una experiencia personal sobre una situación de conflicto que sucedió en la escuela o en tu lugar de trabajo.",
+      "english_original": "Share a personal experience about a conflict situation that happened in school or at your workplace."
+    },
+    {
+      "id": 2,
+      "stimulus_type": "share experience",
+      "text": "Comparte sobre una vez en que cambiaste de opinión o pensaste en algo. ¿Qué ocurrió que te hizo cambiar de opinión? ¿Cómo fue esa experiencia para ti?",
+      "english_original": "Share about a time you changed your mind or thinking about something. What happened that made you change your mind? What was that experience like for you?"
+    },
+    {
+      "id": 3,
+      "stimulus_type": "share experience",
+      "text": "Comparte una experiencia personal sobre una celebración memorable de tu pasado que te haya llenado de alegría.",
+      "english_original": "Share a personal experience about a memorable celebration from your past that brought you joy."
+    },
+    {
+      "id": 4,
+      "stimulus_type": "interview",
+      "text": "Si se te permitiera tener un superpoder, ¿cuál sería?",
+      "english_original": "If you were allowed to have one superpower, what would that be?"
+    },
+    {
+      "id": 5,
+      "stimulus_type": "interview",
+      "text": "¿Compartes acerca de una película que realmente te gusta? ¿Qué es lo que te gusta de ella? ¿Por qué crees que te gusta tanto?",
+      "english_original": "Share about a movie you really like? What do you like about it? Why do you think you like it so much?"
+    },
+    {
+      "id": 6,
+      "stimulus_type": "argument",
+      "text": "¿Qué piensas sobre el siguiente argumento?: <br>: \"Enseñar empatía en las escuelas fomentaría una sociedad más pacífica y tolerante\"",
+      "english_original": "What do you think about the following argument?:<br>: „Teaching empathy in schools would foster a more peaceful and tolerant society.“"
+    },
+    {
+      "id": 7,
+      "stimulus_type": "argument",
+      "text": "¿Qué opinas sobre el siguiente argumento?:<br> A veces, el castigo es la única opción para evitar que los criminales cometan más delitos.",
+      "english_original": "What do you think about the following argument?:<br> Punishment is sometimes the only option to keep criminals from committing more crimes."
+    },
+    {
+      "id": 8,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Tengo 24 años y tengo miedo de dormir sola en casa.",
+      "english_original": "Write a reply message to the following comment: I am 24 and am scared to sleep at home alone."
+    },
+    {
+      "id": 9,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Tengo creencias radicales que aún no me he atrevido a decir a nadie.",
+      "english_original": "Write a reply message to the following comment: I have radical beliefs that I have not dared to articulate to anyone yet."
+    },
+    {
+      "id": 10,
+      "stimulus_type": "diaglogue long",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Yo [31 años] invertí en una bicicleta de carretera cara como mi medio de transporte principal, pero la semana pasada me la robo mi primo Brad [15 años] y lo capturó en la cámara de seguridad. Para cuando lo denuncié y sus padres lo confrontaron, la bicicleta ya le había sido robada a Brad también. Solicité un reembolso a los adinerados padres de Brad, pero me enteré de que están enfrentando problemas financieros debido a la pérdida de empleo y adicciones de mi tío [50s M]. A pesar de sus dificultades, no siento simpatía debido a su arrogancia hacia mi familia en el pasado. Le di un ultimátum a mi tío para que pagara la bicicleta antes de la medianoche del domingo o denunciaría el robo a la policía con todas las pruebas. El plazo ha pasado sin el pago, así que planeo denunciar a Brad a la policía mañana.",
+      "english_original": "Write a reply message to the following comment: I [31M] invested in an expensive road bike as my main transport, but last week, it was stolen and captured on security footage by my cousin Brad [15M]. By the time I reported it and his parents confronted him, the bike was stolen from Brad too. I requested reimbursement from Brad's wealthy parents, but learned they're facing financial issues due to my uncle's [50s M] job loss and addictions. Despite their hardships, I feel no sympathy due to their past arrogance towards my family. I gave my uncle an ultimatum to pay for the bike by Sunday midnight or I'd report the theft to the police with all evidence. The deadline has passed without payment, so I plan to report Brad to the police tomorrow."
+    },
+    {
+      "id": 11,
+      "stimulus_type": "share experience",
+      "text": "Comparte un recuerdo de tu infancia.",
+      "english_original": "Share about a memory of your childhood."
+    },
+    {
+      "id": 12,
+      "stimulus_type": "share experience",
+      "text": "Comparte sobre un tema que te importe mucho. ¿Por qué crees que te importa tanto? ¿Alguien alguna vez te ha cuestionado al respecto? ¿Cómo te fue?",
+      "english_original": "Share about an issue you feel strongly about. Why do you think you care so much about it? Has anyone ever challenged you on it? How did it go?"
+    },
+    {
+      "id": 13,
+      "stimulus_type": "share experience",
+      "text": "Comparte sobre una pequeña victoria que hayas tenido recientemente.",
+      "english_original": "Share about a small victory you recently had."
+    },
+    {
+      "id": 14,
+      "stimulus_type": "interview",
+      "text": "Comparte un libro que te guste mucho. ¿Qué te gusta de él? ¿Por qué crees que te gusta tanto?",
+      "english_original": "Share about a book you really like? What do you like about it? Why do you think you like it so much?"
+    },
+    {
+      "id": 15,
+      "stimulus_type": "interview",
+      "text": "¿Cuál es la forma más efectiva de matar el tiempo?",
+      "english_original": "What is the most effective way to kill your time?"
+    },
+    {
+      "id": 16,
+      "stimulus_type": "argument",
+      "text": "¿Qué opinas sobre el siguiente argumento?:<br> Los videojuegos añaden belleza, entretenimiento y alegría a la sociedad.",
+      "english_original": "What do you think about the following argument?:<br> Video games add beauty, entertainment, and joy to society."
+    },
+    {
+      "id": 17,
+      "stimulus_type": "argument",
+      "text": "¿Qué piensas sobre el siguiente argumento?: <br> „La libertad de expresión es un derecho humano fundamental“.",
+      "english_original": "What do you think about the following argument?:<br>„Free speech is a fundamental human right“."
+    },
+    {
+      "id": 18,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Me quedé en una relación abusiva porque creo que no merezco nada mejor...",
+      "english_original": "Write a reply message to the following comment: I stayed in an abusive relationship because I believe I don't deserve anything better..."
+    },
+    {
+      "id": 19,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Este año me enseñó que valoro la integridad mucho más de lo que pensaba.",
+      "english_original": "Write a reply message to the following comment: This year has taught me that I value integrity a lot more than I thought."
+    },
+    {
+      "id": 20,
+      "stimulus_type": "diaglogue long",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario:<br>Mi mamá regala nuestros gastos familiares a espaldas de mi papá.<br> Esto siempre ha sucedido, mi padre provee para nuestra familia y mi mamá es ama de casa, mi papá le daría los gastos mensualmente pero ella envía una gran cantidad a su familia, su familia es codiciosa y nunca aprecian nada, tienen suficiente dinero y siempre hablan mal de mi papá.",
+      "english_original": "Write a reply message to the following comment:<br>My mom gives away our family spendings behind my dads back.<br> This has always happened, my father provides for our family and my mom is a stay at home mom, my dad would give her the spendings monthly but she sends a fair amount of them to her family, her family is greedy and they never appreciate anything, they have enough money and are always shit talking about my dad."
+    },
+    {
+      "id": 21,
+      "stimulus_type": "share experience",
+      "text": "Comparte sobre tu día de ayer. ¿Cómo lo pasaste? ¿Qué hiciste? ¿Cómo te sentiste?",
+      "english_original": "Share about your day yesterday? How did you spent it? What did you do? How did you feel?"
+    },
+    {
+      "id": 22,
+      "stimulus_type": "interview",
+      "text": "¿Cuál es una invención que te beneficiaría de inmediato y no puedes creer que todavía no exista?",
+      "english_original": "What’s an invention that would benefit you immediately and can’t believe isn’t a thing already?"
+    },
+    {
+      "id": 23,
+      "stimulus_type": "interview",
+      "text": "¿Cuál es la cosa más extraña que alguien te ha dicho?",
+      "english_original": "What is the strangest thing that someone has said to you?"
+    },
+    {
+      "id": 24,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Le digo a la gente que voy a orar por ellos, pero nunca lo hago.",
+      "english_original": "Write a reply message to the following comment: I tell people I will pray for them but I never do."
+    },
+    {
+      "id": 25,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Tengo 4 hijos pequeños y soy discapacitado. Estamos sobreviviendo sin electricidad porque no puedo pagarla. Ojalá hubiera alguien en este mundo que se preocupara. Estoy al límite. No sé qué hacer, se está volviendo demasiado difícil para nosotros.",
+      "english_original": "Write a reply message to the following comment: I have 4 small children and I am disabled. We are surviving without electricity because I can't afford it. I wish there was someone in this world that have a care. Im at my breaking point. I don't know what to do, its getting to hard for us."
+    },
+    {
+      "id": 26,
+      "stimulus_type": "share experience",
+      "text": "Comparte una experiencia personal sobre una situación en la que enfrentaste una decisión difícil.",
+      "english_original": "Share a personal experience about a situation where you faced a difficult decision."
+    },
+    {
+      "id": 27,
+      "stimulus_type": "share experience",
+      "text": "Comparte alguna ocasión en la que hayas superado una situación difícil. ¿Cuál era la situación y cómo la superaste? ¿Qué aprendiste de esa experiencia?",
+      "english_original": "Share about a time you overcame a challenging situation. What was the situation and how did you overcome it? What did you learn from that experience?"
+    },
+    {
+      "id": 28,
+      "stimulus_type": "interview",
+      "text": "Al llegar a casa, te das cuenta de que eres el ganador de una gran cantidad de dinero. ¿Qué haces a continuación?",
+      "english_original": "Upon arriving home, you realize you are the winner of a large amount of money. What do you do next?"
+    },
+    {
+      "id": 29,
+      "stimulus_type": "interview",
+      "text": "¿De qué estás más orgulloso en tu vida profesional hasta ahora?",
+      "english_original": "What are you most proud of in your professional life so far?"
+    },
+    {
+      "id": 30,
+      "stimulus_type": "argument",
+      "text": "¿Qué piensa sobre el siguiente argumento?:<br> No tenemos derecho a hacer sufrir a los animales, a pesar de que haya beneficios para nosotros.",
+      "english_original": "What do you think about the following argument?:<br> We have no right to make animals suffer, even though there are benefits for us."
+    },
+    {
+      "id": 31,
+      "stimulus_type": "argument",
+      "text": "¿Qué opinas sobre el siguiente argumento?:<br>„Un ingreso básico universal mejorarían la calidad de vida de mucha gente.“",
+      "english_original": "What do you think about the following argument?:<br>„A universal basic income would improve the quality of life of many people.“"
+    },
+    {
+      "id": 32,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Borracho tomé la salsa teriyaki de alguien y mi puesto en la uni está en peligro",
+      "english_original": "Write a reply message to the following comment: I drunkenly took someones teriyake sauce and got my position at uni threatened"
+    },
+    {
+      "id": 33,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: No creo que los niños deban ser protegidos de la realidad de la humanidad.",
+      "english_original": "Write a reply message to the following comment: I don't think children should be shielded from the reality of humanity."
+    },
+    {
+      "id": 34,
+      "stimulus_type": "diaglogue long",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Recientemente cumplí 40 años y había reservado una cena a las 7 pm en un buen restaurante. Planeaba salir a las 6:30 pm para tener en cuenta el tráfico y recoger a mi papá, pero encontré a mi esposo (43 años) todavía trabajando en su coche, sin estar listo para irse. A pesar de instarlo a apurarse, a las 6:50, aún no estaba listo, así que me fui con los niños, sin querer perder nuestra reserva. A menudo llega tarde, pero no podía tolerarlo para mi cena especial. Mantuvimos nuestra mesa a pesar de llegar tarde, pero mi esposo no se unió a nosotros y estaba molesto cuando regresamos. Expresé mi frustración con su habitual tardanza. Mi papá apoyó mi decisión, aunque los niños estaban decepcionados de que se perdiera la cena.",
+      "english_original": "Write a reply message to the following comment: I turned 40 recently and had booked a 7pm dinner at a nice restaurant. Planning to leave at 6:30pm to account for traffic and picking up my dad, I found my husband (43 M) still working on his car, not ready to go. Despite urging him to hurry, by 6:50, he wasn't ready, so I left with the kids, not wanting to miss our reservation. He often runs late, but I couldn't tolerate it for my special dinner. We kept our table despite arriving late, but my husband didn't join us and was upset upon our return. I expressed my frustration with his habitual tardiness. My dad supported my decision, though the kids were disappointed he missed the dinner."
+    },
+    {
+      "id": 35,
+      "stimulus_type": "interview",
+      "text": "¿Cuál es tu error más grande?",
+      "english_original": "What's your biggest mistake?"
+    },
+    {
+      "id": 36,
+      "stimulus_type": "interview",
+      "text": "Estás varado en una isla desierta con dos cosas contigo. ¿Cuáles son?",
+      "english_original": "You’re stranded on a deserted island with two things with you. What are they?"
+    },
+    {
+      "id": 37,
+      "stimulus_type": "argument",
+      "text": "¿Qué opinas sobre el siguiente argumento?:<br>„No hay un único enfoque alimentario que sea el mejor para todo el mundo, por lo que las personas deben seguir la dieta que más les convenga.“",
+      "english_original": "What do you think about the following argument?:<br>„No single dietary approach is best for everyone, so people should follow the diet that is best for them.“"
+    },
+    {
+      "id": 38,
+      "stimulus_type": "dialogue short",
+      "text": "Escribí un mensaje de respuesta al siguiente comentario: Aconsejé a mis compañeros de trabajo que no agradecieran al presidente de la empresa, ya que no contribuyó al esfuerzo.",
+      "english_original": "Write a reply message to the following comment: I advised my coworkers not to thank the company president, as he did not contribute to the effort."
+    },
+    {
+      "id": 39,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Siempre que entro a una habitación, siempre pongo una sonrisa aparentemente genuina... pone a todos en paz y recibo reacciones mayormente positivas.",
+      "english_original": "Write a reply message to the following comment: Whenever I walk into a room, I always put on a seemingly genuine smile...it puts everyone at ease and I receive mostly positive reactions."
+    },
+    {
+      "id": 40,
+      "stimulus_type": "diaglogue long",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Disfruté mi pasantía hasta que se unió un nuevo asociado, NA, y perturbó la productividad con su chisme y comportamiento excesivamente amigable. Después de una discusión privada, NA rompió nuestra confianza al discutirla con otro pasante. Su influencia también llevó a trabajo extra para mí cuando otra pasante descuidó sus deberes. Después de que NA torciera mi queja al gerente de la oficina en un ataque personal, organicé no seguir asistiéndola e informarle directamente, lo que llevó a una acalorada discusión. Desde entonces, he limitado mis interacciones con NA, centrándome en mi trabajo y manteniendo límites profesionales, lo que ha mejorado mi felicidad general en la oficina a pesar del visible malestar de NA.",
+      "english_original": "Write a reply message to the following comment: I enjoyed my internship until a new associate, NA, joined and disrupted the productivity with her gossiping and overly friendly behavior. After a private argument, NA breached our trust by discussing it with another intern. Her influence also led to extra work for me when another intern neglected her duties. After NA twisted my complaint to the office manager into a personal attack, I arranged to no longer assist her and informed her directly, leading to a heated argument. I've since limited my interactions with NA, focusing on my work and maintaining professional boundaries, which has improved my overall happiness at the office despite NA's visible upset."
+    },
+    {
+      "id": 41,
+      "stimulus_type": "share experience",
+      "text": "¿Cuál es el grupo del que formas parte y que es importante para usted y por qué?",
+      "english_original": "What is a group that you are part of that is important to you and why?"
+    },
+    {
+      "id": 42,
+      "stimulus_type": "interview",
+      "text": "¿Quién es la persona más inteligente que conoces personalmente? ¿Por qué?",
+      "english_original": "Who is the smartest person you know personally? Why?"
+    },
+    {
+      "id": 43,
+      "stimulus_type": "interview",
+      "text": "¿Crees en la magia? Si es así, ¿cómo la defines?",
+      "english_original": "Do you believe in magic? If so, how do you define it?"
+    },
+    {
+      "id": 44,
+      "stimulus_type": "argument",
+      "text": "¿Qué piensas sobre el siguiente argumento?:<br> El cambio climático es un problema global que enfrenta la humanidad, y con las emisiones de dióxido de carbono de todos los países, los gases de efecto invernadero están aumentando, lo que representa una amenaza para los sistemas de vida.",
+      "english_original": "What do you think about the following argument?:<br> Climate change is a global issue facing mankind, and with carbon dioxide emissions from all countries, greenhouse gases are surging, posing a threat to life systems."
+    },
+    {
+      "id": 45,
+      "stimulus_type": "argument",
+      "text": "¿Qué opinas sobre el siguiente argumento? <br> „La inteligencia artificial representa una amenaza para la humanidad“",
+      "english_original": "What do you think about the following argument?:<br>„Artificial intelligence represents a threat to humankind“"
+    },
+    {
+      "id": 46,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Mantengo mis audífonos puestos en el trabajo para no tener que hablar con nadie.",
+      "english_original": "Write a reply message to the following comment: I keep my headphones on at work so I don't have to talk to anybody."
+    },
+    {
+      "id": 47,
+      "stimulus_type": "dialogue short",
+      "text": "Escribir un mensaje de respuesta al siguiente comentario: Volví y ayudé a mis ex empleados después de que todos renunciamos",
+      "english_original": "Write a reply message to the following comment: I went back and helped my former employees after we all quit"
+    },
+    {
+      "id": 48,
+      "stimulus_type": "diaglogue long",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: En mi cumpleaños número 25, elegí tartaen lugar de pastel, comprando dos tartas para disfrutar libremente, a pesar de las quejas habituales de mi novio sobre mi consumo de tarta. Durante tres días, terminé ambas tartas y consumí 10 refrescos, lo que enfureció a mi novio. Me advirtió que no repitiera esto en mi próximo cumpleaños, citando preocupaciones por la salud. Esta reacción fue sorprendente, especialmente porque me recuperé de la anorexia hace tres años y generalmente como más saludable que él. A menudo se da gusto con dulces y refrescos sin restricciones. Cuando lo enfrenté, me disculpé, pero él persistió, acusándome de no manejar bien las conversaciones serias, lo que sentí que reflejaba más su comportamiento. Dada mi historia con la comida, me pregunto si estuve mal por indulgenciarme durante mi celebración de cumpleaños.",
+      "english_original": "Write a reply message to the following comment: On my 25th birthday, I chose pie over cake, buying two pies to enjoy freely, despite my boyfriend's usual complaints about my pie consumption. Over three days, I finished both pies and consumed 10 sodas, which angered my boyfriend. He warned me against repeating this on my next birthday, citing health concerns. This reaction was surprising, especially since I've recovered from anorexia three years ago and generally eat healthier than he does. He often indulges in sweets and sodas without restraint. When confronted, I apologized, but he persisted, accusing me of not handling serious discussions well, which I felt was more reflective of his behavior. Given my history with food, I wonder if I was wrong for indulging during my birthday celebration."
+    },
+    {
+      "id": 49,
+      "stimulus_type": "share experience",
+      "text": "Comparte una experiencia personal sobre una situación de conflicto entre tú y tu familia o amigos.",
+      "english_original": "Share a personal experience about a conflict situation between you and your family or friends."
+    },
+    {
+      "id": 50,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Tengo problemas para dar afecto físico a mi pareja porque me siento inseguro/a sobre mi apariencia física.",
+      "english_original": "Write a reply message to the following comment: I have problems to give physically affection to my partner because I’m insecure about my physical appearance."
+    },
+    {
+      "id": 51,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Mi mamá ha sido obesa toda mi vida. Recientemente, ha dado pasos increíbles para llegar a un peso saludable. Estoy muy orgulloso de sus esfuerzos por ser más saludable. Me da un poco de tristeza cuando la abrazo porque extraño cómo solían sentir sus abrazos.",
+      "english_original": "Write a reply message to the following comment: My mom has been obese my whole life. Recently, she’s made amazing strides to get down to a healthy weight. I’m so proud of her efforts to be more healthy. I get a little pang of sadness when I hug her because I miss how her hugs used to feel."
+    },
+    {
+      "id": 52,
+      "stimulus_type": "diaglogue long",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Compré una pieza de arte de Elle, una artista que conocí en Etsy, y conecté con ella personalmente. Para evitar las tarifas de Etsy, trasladamos nuestras transacciones a Facebook. A pesar del envío lento, Elle siempre comunicaba sobre retrasos. Sin embargo, mi última compra de hace 5 meses no ha llegado aún, a pesar de que el pago se cobró de inmediato. Después de promesas de enviarlo en diciembre y múltiples excusas, incluida la enfermedad familiar, no recibí nada. Para febrero, después de varios intentos sin respuesta para comunicarme con ella, me enteré de que está activa en Instagram, enseñando negocios de arte. Exigí un reembolso a través de un documento formal, destacando su incapacidad para entregar. Elle respondió, citando problemas de salud graves como la razón de su falta de respuesta y ofreció un reembolso, afirmando que ahora su esposo maneja la mayoría de los envíos.",
+      "english_original": "Write a reply message to the following comment: I bought an art piece from Elle, an artist I met on Etsy, and connected with her personally. To avoid Etsy's fees, we moved our transactions to Facebook. Despite slow shipping, Elle always communicated about delays. However, my last purchase from 5 months ago hasn't arrived yet, even though the payment was cashed immediately. After promises of shipping it in December and multiple excuses including family illness, I received nothing. By February, after several unanswered attempts to reach her, I learned she's active on Instagram, teaching art business. I demanded a refund through a formal document, highlighting her failure to deliver. Elle replied, citing severe health issues as the reason for her unresponsiveness and offered a refund, stating her husband is managing most shipments now."
+    },
+    {
+      "id": 53,
+      "stimulus_type": "interview",
+      "text": "Si pudieras trabajar desde cualquier lugar en la Tierra, ¿dónde elegirías y por qué?",
+      "english_original": "If you could work from any location on Earth, where would you choose and why?"
+    },
+    {
+      "id": 54,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Ayer mi amiga estaba mostrando orgullosamente a todos la primera trenza de su bebé.",
+      "english_original": "Write a reply message to the following comment: Yesterday my friend was proudly showing everyone her baby’s first braid."
+    },
+    {
+      "id": 55,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Ojalá la familia con la que estoy alojado tenga su conversación de cena en un idioma que pueda entender para poder contribuir a la conversación.",
+      "english_original": "Write a reply message to the following comment: I wish that the family I'm staying with would have their dinner conversation in language I can understand so I can contribute to the conversation."
+    },
+    {
+      "id": 56,
+      "stimulus_type": "interview",
+      "text": "¿Cuál es una regla no escrita en la vida que todos deberían saber?",
+      "english_original": "What’s an unwritten rule in life that everyone should know?"
+    },
+    {
+      "id": 57,
+      "stimulus_type": "argument",
+      "text": "¿Qué opinas sobre el siguiente argumento?<br>„Las normas sobre libertad de expresión protegen a las personas de daños.“",
+      "english_original": "What do you think about the following argument?<br>„Regulations on free speech protect individuals from harm.“"
+    },
+    {
+      "id": 58,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Me siento esperanzado por primera vez en años y se siente maravilloso. Por fin estoy emocionado por el futuro y creo que puedo enfrentar cualquier obstáculo que la vida me presente. ¡Vamosssss!",
+      "english_original": "Write a reply message to the following comment: I'm feeling hopeful for the first time in years and it feels wonderful. I'm finally excited for the future and believe I can tackle whatever obstacle life throws at me. Let's goooooo!"
+    },
+    {
+      "id": 59,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: No merecía graduarme...",
+      "english_original": "Write a reply message to the following comment: I didn't deserve to graduate…"
+    },
+    {
+      "id": 60,
+      "stimulus_type": "interview",
+      "text": "¿En qué nunca gastarás dinero?",
+      "english_original": "What will you never spend money on?"
+    },
+    {
+      "id": 61,
+      "stimulus_type": "interview",
+      "text": "¿Cuál es tu idea de un día increíble?",
+      "english_original": "What is your idea of an amazing day?"
+    },
+    {
+      "id": 62,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Mi madre me animó a tomarme un día libre del trabajo, y estoy extremadamente feliz por la decisión.",
+      "english_original": "Write a reply message to the following comment: My mother encouraged me to take a day off from work, and I'm extremely happy about the decision."
+    },
+    {
+      "id": 63,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: No quiero visitar a mi tío aunque esté enfermo.",
+      "english_original": "Write a reply message to the following comment: I don’t want to visit my uncle although he is sick."
+    },
+    {
+      "id": 64,
+      "stimulus_type": "interview",
+      "text": "¿Cuál fue tu aventura más reciente?",
+      "english_original": "What was your most recent adventure?"
+    },
+    {
+      "id": 65,
+      "stimulus_type": "diaglogue long",
+      "text": "Responde al siguiente comentario:<br>Sé que no todos son cristianos, pero siento que la gente antes sí se preocupaba por su pureza de alguna manera.<br>Supongo que estoy siendo un poco crítico, pero simplemente no entiendo cómo la gente puede vivir así. Ya no quieren esperar hasta el matrimonio. Ni hombres ni mujeres.",
+      "english_original": "Write a reply message to the following comment:<br>I know not everyone is Christian but I feel like people used to care about their purity in a way.<br>I guess I’m being a little judgmental but I just don’t understand how people live like this. People don’t want to wait till marriage anymore. Men or women."
+    },
+    {
+      "id": 66,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Me burlé de un miembro fallecido de la familia de otra persona.",
+      "english_original": "Write a reply message to the following comment: I made fun of someone else's dead family member."
+    },
+    {
+      "id": 67,
+      "stimulus_type": "diaglogue long",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario:<br>Estoy teniendo un momento muy difícil con la parte de la alimentación saludable. Necesito bajar mi colesterol pero es simplemente miserable para mí.<br>Pasé 31 años comiendo comida chatarra, pasar de alto en azúcar y grasa a saludable es como... me dan ganas de golpear mi cara contra la pared.",
+      "english_original": "Write a reply message to the following comment:<br>I am having such a hard time with the healthy eating part. I need to lower my cholesterol but it's just miserable for me.<br>I spent 31 years eating crap food, to go from high sugar high fat to healthy is like... it makes me want to bash my face into a wall."
+    },
+    {
+      "id": 68,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Algunas personas están tratando de obligarme a dejar a mi perro por un tiempo. He pensado en causarme algún tipo de lesión solo para que dejen de intentar obligarme a dejar a mi perro.",
+      "english_original": "Write a reply message to the following comment: Some people are trying to force me to leave my dog for a while. I have thought about causing myself to have some sort of injury just so they might stop trying to force me to leave my dog."
+    },
+    {
+      "id": 69,
+      "stimulus_type": "dialogue short",
+      "text": "Mañana audicionaré mi canto en un concurso de talentos.",
+      "english_original": "Write a reply message to the following comment: Tomorrow I will audition my singing in a talent show."
+    },
+    {
+      "id": 70,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Quiero, cuando cumpla 18 años, dejar a mi familia.",
+      "english_original": "Write a reply message to the following comment: I want to, when I turn 18, leave my family."
+    },
+    {
+      "id": 71,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Estoy hablando con alguien a quien mis amigos me prohíben ser amigos.",
+      "english_original": "Write a reply message to the following comment: I am talking to someone who my friends forbid me from being friends with."
+    },
+    {
+      "id": 72,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Siempre doy buenas propinas. Pero depende tanto de tu aspecto como de tu rapidez.",
+      "english_original": "Write a reply message to the following comment: I always tip very well. But how well depends on your looks as much as promptness."
+    },
+    {
+      "id": 73,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Estoy peleando con mi hermano por su uso repetido de mis cosas cuando le he dicho que no se meta con ellas.",
+      "english_original": "Write a reply message to the following comment: I’m falling out with my brother over his repeated use of my things when I've told him not to mess around with them."
+    },
+    {
+      "id": 74,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: No me siento bienvenido en las reuniones navideñas de la familia de mi prometido.",
+      "english_original": "Write a reply message to the following comment: I do not feel welcome at my fiances family Christmas gatherings."
+    },
+    {
+      "id": 75,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Tengo miedo de ser feliz.",
+      "english_original": "Write a reply message to the following comment: I'm afraid to be happy."
+    },
+    {
+      "id": 76,
+      "stimulus_type": "dialogue short",
+      "text": "Escriba un mensaje de respuesta al siguiente comentario: ¡¡He aceptado una nueva oferta de trabajo y no puedo esperar para dejar mi trabajo actual en 2 semanas!!",
+      "english_original": "Write a reply message to the following comment: I've accepted a new job offer and can't wait to give my 2 weeks to my current role!!"
+    },
+    {
+      "id": 77,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Ayer, solicité que una tienda se adhiriera a su política después de que un cajero cometiera un error.",
+      "english_original": "Write a reply message to the following comment: Yesterday, I requested that a store adhere to its policy after a cashier made an error."
+    },
+    {
+      "id": 78,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Odio el alcohol, y pienso que las personas que beben irresponsablemente son verdaderamente idiotas.",
+      "english_original": "Write a reply message to the following comment: I hate alcohol, and I think people who drink it irresponsibly are plain idiotic."
+    },
+    {
+      "id": 79,
+      "stimulus_type": "dialogue short",
+      "text": "Escriba un mensaje de respuesta al siguiente comentario: Forcé una conexión entre mi hermano mellizo y alguien que conocía que odiarían solo para ver el mundo arder.",
+      "english_original": "Write a reply message to the following comment: I forced a connection between my twin sibling and someone I knew they would hate purely to watch the world burn."
+    },
+    {
+      "id": 80,
+      "stimulus_type": "dialogue short",
+      "text": "Escriba un mensaje de respuesta al siguiente comentario: Voté por mí mismo para maestro del año, porque honestamente siento que lo merezco más que muchos otros.",
+      "english_original": "Write a reply message to the following comment: I voted for myself for teacher of the year, because I honestly feel like I deserve it over many others."
+    },
+    {
+      "id": 81,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Después de que nuestra mascota pájaro murió, lo metimos en una pequeña caja de zapatos.",
+      "english_original": "Write a reply message to the following comment: After our pet bird died, we packed him in a little shoe box."
+    },
+    {
+      "id": 82,
+      "stimulus_type": "dialogue short",
+      "text": "Escribir un mensaje de respuesta al siguiente comentario: Solo porque tengo un título en ciencias políticas no significa que quiera hablar de política todo el tiempo.",
+      "english_original": "Write a reply message to the following comment: Just because I have a degree in political science doesn't mean I want to take politics all the time."
+    },
+    {
+      "id": 83,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Estoy a punto de graduarme y estoy perdiendo mi energía en las cosas. Todavía estoy de vacaciones antes de que comience el último semestre y no he hecho nada productivo. Temo que una vez que salga de la universidad, mi mente se derrumbará.",
+      "english_original": "Write a reply message to the following comment: I'm graduating soon and I'm losing my energy on things. I'm still on vacation before the last semester starts, and I haven't done anything productive. I fear that once I leave my uni, my mental would crush."
+    },
+    {
+      "id": 84,
+      "stimulus_type": "interview",
+      "text": "¿Qué es algo que debería estar obsoleto en 2024, pero no lo está?",
+      "english_original": "What's something that should be obsolete in 2024, but isn't?"
+    },
+    {
+      "id": 85,
+      "stimulus_type": "dialogue short",
+      "text": "Escribe un mensaje de respuesta al siguiente comentario: Yo le tengo envidia a mi compañera porque es muy inteligente",
+      "english_original": "Write a reply message to the following comment: I resent my fellow peer because of how smart she is"
+    },
+    {
+      "id": 86,
+      "stimulus_type": "dialogue short",
+      "text": "Escriba un mensaje de respuesta al siguiente comentario: Salí del clóset con mi familia extendida a pesar de que mis padres no quieren que lo haga.",
+      "english_original": "Write a reply message to the following comment: I came out to my extended family even though my parents don't want me to."
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "language": "English (US)",
+  "n_prompts": 86,
+  "prompt_types": [
+    "argument",
+    "diaglogue long",
+    "dialogue short",
+    "interview",
+    "share experience"
+  ],
+  "prompts": [
+    {
+      "id": 1,
+      "stimulus_type": "share experience",
+      "text": "Share a personal experience about a memorable celebration from your past that brought you joy."
+    },
+    {
+      "id": 2,
+      "stimulus_type": "share experience",
+      "text": "What is a group that you are part of that is important to you and why?"
+    },
+    {
+      "id": 3,
+      "stimulus_type": "share experience",
+      "text": "Share about an issue you feel strongly about. Why do you think you care so much about it? Has anyone ever challenged you on it? How did it go?"
+    },
+    {
+      "id": 4,
+      "stimulus_type": "interview",
+      "text": "Share about a book you really like. What do you like about it? Why do you think you like it so much?"
+    },
+    {
+      "id": 5,
+      "stimulus_type": "interview",
+      "text": "Share about a movie you really like? What do you like about it? Why do you think you like it so much?"
+    },
+    {
+      "id": 6,
+      "stimulus_type": "argument",
+      "text": "Express your opinion about the following sentence:<br> „Teaching empathy in schools would foster a more peaceful and tolerant society.“"
+    },
+    {
+      "id": 7,
+      "stimulus_type": "argument",
+      "text": "Express your opinion about the following sentence<br>„Regulations on free speech protect individuals from harm.“"
+    },
+    {
+      "id": 8,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I drunkenly took someones teriyake sauce and got my position at uni threatened"
+    },
+    {
+      "id": 9,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I always tip very well. But how well depends on your looks as much as promptness."
+    },
+    {
+      "id": 10,
+      "stimulus_type": "diaglogue long",
+      "text": "Write a reply message to the following comment:<br> I bought an art piece from Elle, an artist I met on Etsy, and connected with her personally. To avoid Etsy's fees, we moved our transactions to Facebook. Despite slow shipping, Elle always communicated about delays. However, my last purchase from 5 months ago hasn't arrived yet, even though the payment was cashed immediately. After promises of shipping it in December and multiple excuses including family illness, I received nothing. By February, after several unanswered attempts to reach her, I learned she's active on Instagram, teaching art business. I demanded a refund through a formal document, highlighting her failure to deliver. Elle replied, citing severe health issues as the reason for her unresponsiveness and offered a refund, stating her husband is managing most shipments now."
+    },
+    {
+      "id": 11,
+      "stimulus_type": "share experience",
+      "text": "Share a personal experience about a situation where you faced a difficult decision."
+    },
+    {
+      "id": 12,
+      "stimulus_type": "share experience",
+      "text": "Share about a time you overcame a challenging situation. What was the situation and how did you overcome it? What did you learn from that experience?"
+    },
+    {
+      "id": 13,
+      "stimulus_type": "share experience",
+      "text": "Share a personal experience about a conflict situation that happened in school or at your workplace."
+    },
+    {
+      "id": 14,
+      "stimulus_type": "interview",
+      "text": "Who is the smartest person you know personally? Why?"
+    },
+    {
+      "id": 15,
+      "stimulus_type": "interview",
+      "text": "What’s an unwritten rule in life that everyone should know?"
+    },
+    {
+      "id": 16,
+      "stimulus_type": "argument",
+      "text": "Express your opinion about the following sentence:<br> Climate change is a global issue facing mankind, and with carbon dioxide emissions from all countries, greenhouse gases are surging, posing a threat to life systems."
+    },
+    {
+      "id": 17,
+      "stimulus_type": "argument",
+      "text": "Express your opinion about the following sentence:<br> We have no right to make animals suffer, even though there are benefits for us."
+    },
+    {
+      "id": 18,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I’m falling out with my brother over his repeated use of my things when I've told him not to mess around with them."
+    },
+    {
+      "id": 19,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I've accepted a new job offer and can't wait to give my 2 weeks to my current role!!"
+    },
+    {
+      "id": 20,
+      "stimulus_type": "diaglogue long",
+      "text": "Write a reply message to the following comment:<br> I [31M] invested in an expensive road bike as my main transport, but last week, it was stolen and captured on security footage by my cousin Brad [15M]. By the time I reported it and his parents confronted him, the bike was stolen from Brad too. I requested reimbursement from Brad's wealthy parents, but learned they're facing financial issues due to my uncle's [50s M] job loss and addictions. Despite their hardships, I feel no sympathy due to their past arrogance towards my family. I gave my uncle an ultimatum to pay for the bike by Sunday midnight or I'd report the theft to the police with all evidence. The deadline has passed without payment, so I plan to report Brad to the police tomorrow."
+    },
+    {
+      "id": 21,
+      "stimulus_type": "share experience",
+      "text": "Share a personal experience about a conflict situation between you and your family or friends."
+    },
+    {
+      "id": 22,
+      "stimulus_type": "share experience",
+      "text": "Share about a memory of your childhood."
+    },
+    {
+      "id": 23,
+      "stimulus_type": "share experience",
+      "text": "Share about your day yesterday? How did you spent it? What did you do? How did you feel?"
+    },
+    {
+      "id": 24,
+      "stimulus_type": "interview",
+      "text": "What was your most recent adventure?"
+    },
+    {
+      "id": 25,
+      "stimulus_type": "interview",
+      "text": "What is the most effective way to kill your time?"
+    },
+    {
+      "id": 26,
+      "stimulus_type": "argument",
+      "text": "Express your opinion about the following sentence:<br>„Free speech is a fundamental human right“."
+    },
+    {
+      "id": 27,
+      "stimulus_type": "argument",
+      "text": "Express your opinion about the following sentence:<br>„No single dietary approach is best for everyone, so people should follow the diet that is best for them.“"
+    },
+    {
+      "id": 28,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> Just because I have a degree in political science doesn't mean I want to take politics all the time."
+    },
+    {
+      "id": 29,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> After our pet bird died, we packed him in a little shoe box."
+    },
+    {
+      "id": 30,
+      "stimulus_type": "diaglogue long",
+      "text": "Write a reply message to the following comment:<br>I am having such a hard time with the healthy eating part. I need to lower my cholesterol but it's just miserable for me.<br>I spent 31 years eating crap food, to go from high sugar high fat to healthy is like... it makes me want to bash my face into a wall."
+    },
+    {
+      "id": 31,
+      "stimulus_type": "interview",
+      "text": "What will you never spend money on?"
+    },
+    {
+      "id": 32,
+      "stimulus_type": "interview",
+      "text": "Upon arriving home, you realize you are the winner of a large amount of money. What do you do next?"
+    },
+    {
+      "id": 33,
+      "stimulus_type": "argument",
+      "text": "Express your opinion about the following sentence:<br> Punishment is sometimes the only option to keep criminals from committing more crimes."
+    },
+    {
+      "id": 34,
+      "stimulus_type": "argument",
+      "text": "Express your opinion about the following sentence:<br>„Artificial intelligence represents a threat to humankind“"
+    },
+    {
+      "id": 35,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I stayed in an abusive relationship because I believe I don't deserve anything better..."
+    },
+    {
+      "id": 36,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I keep my headphones on at work so I don't have to talk to anybody."
+    },
+    {
+      "id": 37,
+      "stimulus_type": "diaglogue long",
+      "text": "Write a reply message to the following comment:<br> I turned 40 recently and had booked a 7pm dinner at a nice restaurant. Planning to leave at 6:30pm to account for traffic and picking up my dad, I found my husband (43 M) still working on his car, not ready to go. Despite urging him to hurry, by 6:50, he wasn't ready, so I left with the kids, not wanting to miss our reservation. He often runs late, but I couldn't tolerate it for my special dinner. We kept our table despite arriving late, but my husband didn't join us and was upset upon our return. I expressed my frustration with his habitual tardiness. My dad supported my decision, though the kids were disappointed he missed the dinner."
+    },
+    {
+      "id": 38,
+      "stimulus_type": "share experience",
+      "text": "Share about a time you changed your mind or thinking about something. What happened that made you change your mind? What was that experience like for you?"
+    },
+    {
+      "id": 39,
+      "stimulus_type": "share experience",
+      "text": "Share about a small victory you recently had."
+    },
+    {
+      "id": 40,
+      "stimulus_type": "interview",
+      "text": "What is your idea of an amazing day?"
+    },
+    {
+      "id": 41,
+      "stimulus_type": "interview",
+      "text": "If you could work from any location on Earth, where would you choose and why?"
+    },
+    {
+      "id": 42,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I do not feel welcome at my fiances family Christmas gatherings."
+    },
+    {
+      "id": 43,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I have problems to give physically affection to my partner because I’m insecure about my physical appearance."
+    },
+    {
+      "id": 44,
+      "stimulus_type": "diaglogue long",
+      "text": "Write a reply message to the following comment:<br> On my 25th birthday, I chose pie over cake, buying two pies to enjoy freely, despite my boyfriend's usual complaints about my pie consumption. Over three days, I finished both pies and consumed 10 sodas, which angered my boyfriend. He warned me against repeating this on my next birthday, citing health concerns. This reaction was surprising, especially since I've recovered from anorexia three years ago and generally eat healthier than he does. He often indulges in sweets and sodas without restraint. When confronted, I apologized, but he persisted, accusing me of not handling serious discussions well, which I felt was more reflective of his behavior. Given my history with food, I wonder if I was wrong for indulging during my birthday celebration."
+    },
+    {
+      "id": 45,
+      "stimulus_type": "interview",
+      "text": "What’s an invention that would benefit you immediately and can’t believe isn’t a thing already?"
+    },
+    {
+      "id": 46,
+      "stimulus_type": "interview",
+      "text": "What's something that should be obsolete in 2024, but isn't?"
+    },
+    {
+      "id": 47,
+      "stimulus_type": "argument",
+      "text": "Express your opinion about the following sentence:<br>„A universal basic income would improve the quality of life of many people.“"
+    },
+    {
+      "id": 48,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> Yesterday my friend was proudly showing everyone her baby’s first braid."
+    },
+    {
+      "id": 49,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I forced a connection between my twin sibling and someone I knew they would hate purely to watch the world burn."
+    },
+    {
+      "id": 50,
+      "stimulus_type": "diaglogue long",
+      "text": "Write a reply message to the following comment:<br>I know not everyone is Christian but I feel like people used to care about their purity in a way.<br>I guess I’m being a little judgmental but I just don’t understand how people live like this. People don’t want to wait till marriage anymore. Men or women."
+    },
+    {
+      "id": 51,
+      "stimulus_type": "interview",
+      "text": "You’re stranded on a deserted island with two things with you. What are they?"
+    },
+    {
+      "id": 52,
+      "stimulus_type": "interview",
+      "text": "Do you believe in magic? If so, how do you define it?"
+    },
+    {
+      "id": 53,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I resent my fellow peer because of how smart she is"
+    },
+    {
+      "id": 54,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I made fun of someone else's dead family member."
+    },
+    {
+      "id": 55,
+      "stimulus_type": "interview",
+      "text": "If you were allowed to have one superpower, what would that be?"
+    },
+    {
+      "id": 56,
+      "stimulus_type": "interview",
+      "text": "What's your biggest mistake?"
+    },
+    {
+      "id": 57,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> Tomorrow I will audition my singing in a talent show."
+    },
+    {
+      "id": 58,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I hate alcohol, and I think people who drink it irresponsibly are plain idiotic."
+    },
+    {
+      "id": 59,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I'm afraid to be happy."
+    },
+    {
+      "id": 60,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I am 24 and am scared to sleep at home alone."
+    },
+    {
+      "id": 61,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I don't think children should be shielded from the reality of humanity."
+    },
+    {
+      "id": 62,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I'm feeling hopeful for the first time in years and it feels wonderful. I'm finally excited for the future and believe I can tackle whatever obstacle life throws at me. Let's goooooo!"
+    },
+    {
+      "id": 63,
+      "stimulus_type": "diaglogue long",
+      "text": "Write a reply message to the following comment:<br> I enjoyed my internship until a new associate, NA, joined and disrupted the productivity with her gossiping and overly friendly behavior. After a private argument, NA breached our trust by discussing it with another intern. Her influence also led to extra work for me when another intern neglected her duties. After NA twisted my complaint to the office manager into a personal attack, I arranged to no longer assist her and informed her directly, leading to a heated argument. I've since limited my interactions with NA, focusing on my work and maintaining professional boundaries, which has improved my overall happiness at the office despite NA's visible upset."
+    },
+    {
+      "id": 64,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I tell people I will pray for them but I never do."
+    },
+    {
+      "id": 65,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> Whenever I walk into a room, I always put on a seemingly genuine smile...it puts everyone at ease and I receive mostly positive reactions."
+    },
+    {
+      "id": 66,
+      "stimulus_type": "diaglogue long",
+      "text": "Write a reply message to the following comment:<br>My mom gives away our family spendings behind my dads back.<br> This has always happened, my father provides for our family and my mom is a stay at home mom, my dad would give her the spendings monthly but she sends a fair amount of them to her family, her family is greedy and they never appreciate anything, they have enough money and are always shit talking about my dad."
+    },
+    {
+      "id": 67,
+      "stimulus_type": "argument",
+      "text": "Express your opinion about the following sentence:<br> Video games add beauty, entertainment, and joy to society."
+    },
+    {
+      "id": 68,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I advised my coworkers not to thank the company president, as he did not contribute to the effort."
+    },
+    {
+      "id": 69,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I don’t want to visit my uncle although he is sick."
+    },
+    {
+      "id": 70,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I'm graduating soon and I'm losing my energy on things. I'm still on vacation before the last semester starts, and I haven't done anything productive. I fear that once I leave my uni, my mental would crush."
+    },
+    {
+      "id": 71,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> Yesterday, I requested that a store adhere to its policy after a cashier made an error."
+    },
+    {
+      "id": 72,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> This year has taught me that I value integrity a lot more than I thought."
+    },
+    {
+      "id": 73,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I have 4 small children and I am disabled. We are surviving without electricity because I can't afford it. I wish there was someone in this world that have a care. Im at my breaking point. I don't know what to do, its getting to hard for us."
+    },
+    {
+      "id": 74,
+      "stimulus_type": "interview",
+      "text": "What are you most proud of in your professional life so far?"
+    },
+    {
+      "id": 75,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I came out to my extended family even though my parents don't want me to."
+    },
+    {
+      "id": 76,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I didn't deserve to graduate…"
+    },
+    {
+      "id": 77,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> Some people are trying to force me to leave my dog for a while. I have thought about causing myself to have some sort of injury just so they might stop trying to force me to leave my dog."
+    },
+    {
+      "id": 78,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I want to, when I turn 18, leave my family."
+    },
+    {
+      "id": 79,
+      "stimulus_type": "interview",
+      "text": "What is the strangest thing that someone has said to you?"
+    },
+    {
+      "id": 80,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> My mom has been obese my whole life. Recently, she’s made amazing strides to get down to a healthy weight. I’m so proud of her efforts to be more healthy. I get a little pang of sadness when I hug her because I miss how her hugs used to feel."
+    },
+    {
+      "id": 81,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> My mother encouraged me to take a day off from work, and I'm extremely happy about the decision."
+    },
+    {
+      "id": 82,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I have radical beliefs that I have not dared to articulate to anyone yet."
+    },
+    {
+      "id": 83,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I wish that the family I'm staying with would have their dinner conversation in language I can understand so I can contribute to the conversation."
+    },
+    {
+      "id": 84,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I am talking to someone who my friends forbid me from being friends with."
+    },
+    {
+      "id": 85,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I voted for myself for teacher of the year, because I honestly feel like I deserve it over many others."
+    },
+    {
+      "id": 86,
+      "stimulus_type": "dialogue short",
+      "text": "Write a reply message to the following comment:<br> I went back and helped my former employees after we all quit"
+    }
+  ]
+}
